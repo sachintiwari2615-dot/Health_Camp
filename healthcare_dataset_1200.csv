@@ -1,0 +1,1201 @@
+Patient_ID,Name,Age,Gender,Phone,Email,City,Blood_Group,Existing_Condition
+P0001,Deepak Kumar,54,Male,9391241800,deepakkumar1@gmail.com,Delhi,A+,Diabetes
+P0002,Vikas Mishra,62,Male,9469038160,vikasmishra2@gmail.com,Varanasi,B-,None
+P0003,Kiran Das,55,Male,9740556106,kirandas3@gmail.com,Chennai,B-,Diabetes
+P0004,Sneha Sharma,17,Male,9468330358,snehasharma4@gmail.com,Varanasi,A-,None
+P0005,Neha Verma,76,Male,9756897248,nehaverma5@gmail.com,Chennai,AB+,None
+P0006,Manish Das,57,Male,9244672668,manishdas6@gmail.com,Mumbai,O-,Heart Disease
+P0007,Amit Singh,35,Female,9717923406,amitsingh7@gmail.com,Bangalore,O-,Diabetes
+P0008,Sneha Patel,66,Female,9666399680,snehapatel8@gmail.com,Kolkata,B+,Thyroid
+P0009,Amit Sharma,63,Female,9751194122,amitsharma9@gmail.com,Mumbai,A-,Hypertension
+P0010,Vikas Singh,67,Female,9958480812,vikassingh10@gmail.com,Pune,A+,None
+P0011,Neha Mishra,28,Male,9659716605,nehamishra11@gmail.com,Lucknow,A+,Thyroid
+P0012,Kavita Mishra,70,Female,9767229492,kavitamishra12@gmail.com,Chennai,B-,None
+P0013,Kiran Kumar,42,Female,9450280592,kirankumar13@gmail.com,Chennai,B-,Allergy
+P0014,Kavita Gupta,42,Male,9530691152,kavitagupta14@gmail.com,Patna,O+,Diabetes
+P0015,Amit Gupta,6,Female,9275704541,amitgupta15@gmail.com,Jaipur,A-,None
+P0016,Priya Mishra,11,Female,9683241182,priyamishra16@gmail.com,Lucknow,O-,Hypertension
+P0017,Suresh Das,67,Female,9012171960,sureshdas17@gmail.com,Chennai,A-,Thyroid
+P0018,Suresh Yadav,62,Female,9046665519,sureshyadav18@gmail.com,Mumbai,O+,Hypertension
+P0019,Arjun Verma,84,Female,9946351430,arjunverma19@gmail.com,Mumbai,B-,Asthma
+P0020,Vikas Yadav,17,Female,9034132589,vikasyadav20@gmail.com,Pune,AB-,Heart Disease
+P0021,Vikas Mishra,19,Female,9982994235,vikasmishra21@gmail.com,Kolkata,A-,Heart Disease
+P0022,Kiran Chaudhary,34,Female,9807330035,kiranchaudhary22@gmail.com,Patna,O-,None
+P0023,Sneha Das,35,Male,9955079060,snehadas23@gmail.com,Mumbai,AB-,Thyroid
+P0024,Kavita Mishra,4,Male,9821620493,kavitamishra24@gmail.com,Chennai,B+,Asthma
+P0025,Neha Chaudhary,12,Male,9498224781,nehachaudhary25@gmail.com,Lucknow,AB+,Hypertension
+P0026,Vikas Sharma,2,Male,9990178613,vikassharma26@gmail.com,Patna,AB+,Heart Disease
+P0027,Kavita Patel,10,Male,9504639611,kavitapatel27@gmail.com,Varanasi,B-,Thyroid
+P0028,Anjali Singh,36,Female,9881357449,anjalisingh28@gmail.com,Delhi,A-,None
+P0029,Kavita Gupta,40,Male,9072132294,kavitagupta29@gmail.com,Pune,AB-,Hypertension
+P0030,Kiran Sharma,62,Male,9131933728,kiransharma30@gmail.com,Chennai,B+,None
+P0031,Arjun Das,21,Female,9353530154,arjundas31@gmail.com,Kolkata,AB-,Asthma
+P0032,Rahul Patel,41,Male,9238655907,rahulpatel32@gmail.com,Pune,AB-,Hypertension
+P0033,Deepak Patel,26,Male,9318104079,deepakpatel33@gmail.com,Delhi,B-,Heart Disease
+P0034,Neha Sharma,33,Female,9503922521,nehasharma34@gmail.com,Lucknow,O+,Hypertension
+P0035,Priya Yadav,74,Female,9186681225,priyayadav35@gmail.com,Pune,AB+,Allergy
+P0036,Neha Verma,10,Male,9585141777,nehaverma36@gmail.com,Pune,B+,Diabetes
+P0037,Sneha Yadav,80,Male,9603395409,snehayadav37@gmail.com,Delhi,A+,Thyroid
+P0038,Anjali Sharma,78,Male,9249814000,anjalisharma38@gmail.com,Kolkata,O+,Asthma
+P0039,Pooja Patel,75,Female,9718862556,poojapatel39@gmail.com,Jaipur,O-,Thyroid
+P0040,Vikas Sharma,76,Female,9529429778,vikassharma40@gmail.com,Mumbai,B-,Hypertension
+P0041,Vikas Yadav,22,Male,9212984501,vikasyadav41@gmail.com,Patna,B-,Allergy
+P0042,Vikas Mishra,16,Female,9137479289,vikasmishra42@gmail.com,Chennai,O-,None
+P0043,Amit Gupta,76,Female,9063874835,amitgupta43@gmail.com,Kolkata,AB+,Heart Disease
+P0044,Vikas Patel,20,Female,9222563175,vikaspatel44@gmail.com,Lucknow,AB+,Thyroid
+P0045,Deepak Mishra,22,Female,9518586870,deepakmishra45@gmail.com,Lucknow,A-,Heart Disease
+P0046,Arjun Gupta,65,Female,9739213039,arjungupta46@gmail.com,Patna,AB-,None
+P0047,Suresh Gupta,37,Female,9325416173,sureshgupta47@gmail.com,Kolkata,AB+,Thyroid
+P0048,Deepak Das,27,Female,9586263413,deepakdas48@gmail.com,Kolkata,A-,None
+P0049,Ravi Kumar,14,Female,9408253839,ravikumar49@gmail.com,Delhi,AB+,Allergy
+P0050,Sneha Chaudhary,54,Male,9219310189,snehachaudhary50@gmail.com,Bangalore,O-,Diabetes
+P0051,Vikas Verma,59,Female,9841276009,vikasverma51@gmail.com,Jaipur,B+,Heart Disease
+P0052,Vikas Mishra,39,Female,9073348380,vikasmishra52@gmail.com,Patna,A-,None
+P0053,Arjun Kumar,84,Male,9527766958,arjunkumar53@gmail.com,Jaipur,A-,Allergy
+P0054,Kiran Verma,71,Male,9104228287,kiranverma54@gmail.com,Lucknow,A+,Thyroid
+P0055,Anjali Sharma,76,Female,9637965854,anjalisharma55@gmail.com,Kolkata,O-,None
+P0056,Pooja Mishra,34,Male,9163297545,poojamishra56@gmail.com,Mumbai,O-,Diabetes
+P0057,Anjali Patel,69,Male,9083545637,anjalipatel57@gmail.com,Varanasi,B+,Asthma
+P0058,Suresh Das,77,Female,9508811659,sureshdas58@gmail.com,Patna,A-,Thyroid
+P0059,Sneha Patel,85,Female,9032866066,snehapatel59@gmail.com,Lucknow,B+,Asthma
+P0060,Kavita Das,35,Female,9885022519,kavitadas60@gmail.com,Chennai,A-,Diabetes
+P0061,Arjun Verma,35,Female,9146279916,arjunverma61@gmail.com,Pune,B+,Allergy
+P0062,Suresh Sharma,37,Male,9981480610,sureshsharma62@gmail.com,Kolkata,B-,Thyroid
+P0063,Kiran Yadav,73,Female,9261183770,kiranyadav63@gmail.com,Lucknow,A-,Heart Disease
+P0064,Neha Gupta,6,Male,9430353497,nehagupta64@gmail.com,Pune,A+,Asthma
+P0065,Neha Das,38,Male,9811624891,nehadas65@gmail.com,Mumbai,AB-,Diabetes
+P0066,Priya Kumar,3,Female,9616691340,priyakumar66@gmail.com,Chennai,B+,Asthma
+P0067,Vikas Kumar,71,Male,9253003382,vikaskumar67@gmail.com,Delhi,O-,Heart Disease
+P0068,Kavita Verma,77,Male,9248819808,kavitaverma68@gmail.com,Patna,B-,None
+P0069,Kavita Mishra,61,Male,9278964903,kavitamishra69@gmail.com,Pune,AB+,Asthma
+P0070,Amit Patel,13,Female,9295948647,amitpatel70@gmail.com,Patna,AB-,Asthma
+P0071,Priya Chaudhary,45,Female,9178826139,priyachaudhary71@gmail.com,Pune,O+,Thyroid
+P0072,Neha Gupta,70,Female,9768844367,nehagupta72@gmail.com,Delhi,O-,Heart Disease
+P0073,Vikas Das,30,Male,9652901371,vikasdas73@gmail.com,Bangalore,B+,Thyroid
+P0074,Deepak Sharma,82,Male,9834559773,deepaksharma74@gmail.com,Jaipur,B+,Diabetes
+P0075,Pooja Sharma,40,Male,9143037679,poojasharma75@gmail.com,Pune,O+,Diabetes
+P0076,Arjun Patel,37,Female,9961513351,arjunpatel76@gmail.com,Patna,O+,None
+P0077,Ravi Patel,81,Female,9259780730,ravipatel77@gmail.com,Patna,A+,Hypertension
+P0078,Arjun Sharma,29,Female,9589650590,arjunsharma78@gmail.com,Delhi,O-,Allergy
+P0079,Anjali Yadav,26,Male,9233436940,anjaliyadav79@gmail.com,Mumbai,A+,Heart Disease
+P0080,Kavita Das,78,Male,9546333184,kavitadas80@gmail.com,Lucknow,A+,None
+P0081,Deepak Sharma,8,Male,9958284656,deepaksharma81@gmail.com,Delhi,B-,Hypertension
+P0082,Kiran Verma,10,Female,9268215544,kiranverma82@gmail.com,Delhi,A-,Hypertension
+P0083,Neha Das,5,Female,9360129198,nehadas83@gmail.com,Jaipur,A-,None
+P0084,Anjali Gupta,3,Female,9230932685,anjaligupta84@gmail.com,Pune,B-,Heart Disease
+P0085,Suresh Yadav,74,Male,9352907082,sureshyadav85@gmail.com,Jaipur,A+,Allergy
+P0086,Manish Singh,76,Female,9502550744,manishsingh86@gmail.com,Chennai,B+,Thyroid
+P0087,Suresh Chaudhary,32,Female,9198803048,sureshchaudhary87@gmail.com,Jaipur,A-,Hypertension
+P0088,Vikas Sharma,6,Female,9167532843,vikassharma88@gmail.com,Varanasi,B+,Asthma
+P0089,Ravi Verma,57,Female,9194307761,raviverma89@gmail.com,Chennai,O-,None
+P0090,Pooja Verma,81,Female,9190310177,poojaverma90@gmail.com,Mumbai,A-,None
+P0091,Vikas Chaudhary,8,Male,9156200386,vikaschaudhary91@gmail.com,Patna,O+,Hypertension
+P0092,Kavita Singh,61,Male,9257066770,kavitasingh92@gmail.com,Bangalore,A-,Diabetes
+P0093,Kiran Sharma,76,Male,9927580733,kiransharma93@gmail.com,Kolkata,AB+,Asthma
+P0094,Pooja Sharma,76,Male,9922305608,poojasharma94@gmail.com,Pune,AB-,Thyroid
+P0095,Kavita Sharma,33,Male,9921739063,kavitasharma95@gmail.com,Varanasi,A+,Thyroid
+P0096,Deepak Patel,22,Male,9628319280,deepakpatel96@gmail.com,Varanasi,AB-,Allergy
+P0097,Anjali Mishra,48,Female,9666364776,anjalimishra97@gmail.com,Jaipur,AB-,Heart Disease
+P0098,Rahul Sharma,60,Female,9018605747,rahulsharma98@gmail.com,Delhi,O+,Diabetes
+P0099,Sneha Kumar,63,Female,9783716447,snehakumar99@gmail.com,Bangalore,B-,Asthma
+P0100,Suresh Verma,67,Male,9426004494,sureshverma100@gmail.com,Varanasi,B+,Allergy
+P0101,Sneha Das,24,Female,9865143299,snehadas101@gmail.com,Bangalore,AB+,Heart Disease
+P0102,Arjun Patel,12,Male,9468258578,arjunpatel102@gmail.com,Delhi,A+,None
+P0103,Ravi Gupta,7,Male,9584229961,ravigupta103@gmail.com,Jaipur,A+,Hypertension
+P0104,Kavita Yadav,14,Female,9455529867,kavitayadav104@gmail.com,Pune,B-,Allergy
+P0105,Suresh Chaudhary,75,Male,9924069299,sureshchaudhary105@gmail.com,Chennai,A+,Asthma
+P0106,Kavita Mishra,32,Male,9955522988,kavitamishra106@gmail.com,Jaipur,AB+,Hypertension
+P0107,Vikas Das,78,Female,9988649261,vikasdas107@gmail.com,Patna,A+,Asthma
+P0108,Arjun Mishra,56,Male,9708780910,arjunmishra108@gmail.com,Patna,AB-,Hypertension
+P0109,Ravi Das,29,Male,9029240915,ravidas109@gmail.com,Delhi,AB+,Thyroid
+P0110,Vikas Gupta,81,Female,9987842660,vikasgupta110@gmail.com,Patna,AB+,Allergy
+P0111,Deepak Kumar,15,Female,9039242579,deepakkumar111@gmail.com,Patna,B-,Allergy
+P0112,Arjun Verma,38,Male,9747980818,arjunverma112@gmail.com,Chennai,B+,Heart Disease
+P0113,Vikas Mishra,8,Female,9792990799,vikasmishra113@gmail.com,Jaipur,B+,None
+P0114,Arjun Das,61,Male,9049715126,arjundas114@gmail.com,Pune,O+,Heart Disease
+P0115,Arjun Kumar,24,Male,9190615461,arjunkumar115@gmail.com,Lucknow,A+,Diabetes
+P0116,Kavita Sharma,21,Male,9611629032,kavitasharma116@gmail.com,Chennai,AB-,None
+P0117,Vikas Patel,2,Male,9163111391,vikaspatel117@gmail.com,Pune,O-,Hypertension
+P0118,Manish Kumar,22,Female,9912710908,manishkumar118@gmail.com,Varanasi,A-,Thyroid
+P0119,Rahul Kumar,34,Male,9574793029,rahulkumar119@gmail.com,Delhi,B-,None
+P0120,Manish Das,28,Male,9017984428,manishdas120@gmail.com,Bangalore,O-,Heart Disease
+P0121,Neha Mishra,78,Male,9944674462,nehamishra121@gmail.com,Patna,B-,Hypertension
+P0122,Amit Kumar,60,Female,9125200718,amitkumar122@gmail.com,Delhi,O+,Asthma
+P0123,Vikas Verma,9,Male,9535162437,vikasverma123@gmail.com,Jaipur,O+,Thyroid
+P0124,Arjun Mishra,25,Female,9084291595,arjunmishra124@gmail.com,Chennai,O-,Diabetes
+P0125,Neha Singh,72,Male,9777354218,nehasingh125@gmail.com,Chennai,B+,None
+P0126,Kavita Mishra,65,Male,9777108294,kavitamishra126@gmail.com,Varanasi,B+,Diabetes
+P0127,Ravi Sharma,33,Male,9945940630,ravisharma127@gmail.com,Patna,B+,Thyroid
+P0128,Kavita Das,39,Female,9884597720,kavitadas128@gmail.com,Mumbai,O-,Thyroid
+P0129,Pooja Das,16,Female,9302016157,poojadas129@gmail.com,Pune,AB-,None
+P0130,Pooja Yadav,78,Female,9663781528,poojayadav130@gmail.com,Lucknow,A-,Allergy
+P0131,Kiran Singh,34,Female,9148939708,kiransingh131@gmail.com,Bangalore,O+,Allergy
+P0132,Rahul Das,21,Female,9411565999,rahuldas132@gmail.com,Pune,O+,Asthma
+P0133,Manish Verma,46,Female,9987955631,manishverma133@gmail.com,Delhi,A-,Allergy
+P0134,Sneha Sharma,70,Male,9865147355,snehasharma134@gmail.com,Kolkata,AB-,None
+P0135,Priya Gupta,3,Female,9282400873,priyagupta135@gmail.com,Chennai,B+,None
+P0136,Vikas Singh,5,Male,9998990367,vikassingh136@gmail.com,Mumbai,O-,Allergy
+P0137,Kavita Singh,31,Male,9149097157,kavitasingh137@gmail.com,Patna,A+,Diabetes
+P0138,Kiran Verma,82,Male,9794297887,kiranverma138@gmail.com,Lucknow,A-,Thyroid
+P0139,Amit Das,13,Male,9675920664,amitdas139@gmail.com,Mumbai,B-,Heart Disease
+P0140,Rahul Das,59,Female,9414866131,rahuldas140@gmail.com,Kolkata,A-,Thyroid
+P0141,Neha Chaudhary,56,Female,9265845343,nehachaudhary141@gmail.com,Lucknow,B-,Heart Disease
+P0142,Pooja Sharma,83,Male,9002360650,poojasharma142@gmail.com,Chennai,AB+,Asthma
+P0143,Suresh Verma,26,Female,9050928236,sureshverma143@gmail.com,Varanasi,O+,Diabetes
+P0144,Kavita Gupta,74,Male,9087095263,kavitagupta144@gmail.com,Chennai,A-,Diabetes
+P0145,Kiran Patel,49,Female,9953313166,kiranpatel145@gmail.com,Patna,AB+,Allergy
+P0146,Kiran Chaudhary,45,Male,9783632100,kiranchaudhary146@gmail.com,Patna,B-,Thyroid
+P0147,Amit Mishra,13,Male,9328763038,amitmishra147@gmail.com,Varanasi,AB-,Heart Disease
+P0148,Ravi Mishra,51,Female,9629032509,ravimishra148@gmail.com,Varanasi,AB+,Asthma
+P0149,Anjali Gupta,54,Male,9867816025,anjaligupta149@gmail.com,Delhi,B+,Thyroid
+P0150,Vikas Patel,4,Female,9837910751,vikaspatel150@gmail.com,Patna,A-,Heart Disease
+P0151,Neha Verma,22,Female,9649445658,nehaverma151@gmail.com,Jaipur,B+,Asthma
+P0152,Amit Sharma,5,Male,9172198412,amitsharma152@gmail.com,Lucknow,B+,Hypertension
+P0153,Kiran Verma,9,Female,9150520806,kiranverma153@gmail.com,Pune,O-,Asthma
+P0154,Amit Patel,39,Male,9303958461,amitpatel154@gmail.com,Kolkata,B+,Diabetes
+P0155,Arjun Singh,42,Female,9289886838,arjunsingh155@gmail.com,Patna,O-,Asthma
+P0156,Amit Yadav,32,Female,9239461878,amityadav156@gmail.com,Lucknow,AB-,Thyroid
+P0157,Sneha Verma,33,Female,9287642913,snehaverma157@gmail.com,Varanasi,O+,Thyroid
+P0158,Rahul Singh,24,Male,9322898533,rahulsingh158@gmail.com,Varanasi,A-,Allergy
+P0159,Priya Mishra,41,Female,9206809002,priyamishra159@gmail.com,Jaipur,B+,Diabetes
+P0160,Deepak Sharma,5,Female,9697369492,deepaksharma160@gmail.com,Kolkata,O-,Heart Disease
+P0161,Vikas Patel,19,Female,9337758445,vikaspatel161@gmail.com,Varanasi,B+,Allergy
+P0162,Rahul Patel,64,Male,9218135551,rahulpatel162@gmail.com,Delhi,B+,Hypertension
+P0163,Deepak Chaudhary,63,Female,9553799808,deepakchaudhary163@gmail.com,Varanasi,A-,Diabetes
+P0164,Amit Gupta,45,Female,9484180502,amitgupta164@gmail.com,Pune,AB+,Diabetes
+P0165,Sneha Verma,1,Male,9701039368,snehaverma165@gmail.com,Delhi,O+,Asthma
+P0166,Kavita Chaudhary,26,Male,9754345821,kavitachaudhary166@gmail.com,Varanasi,O+,Asthma
+P0167,Arjun Yadav,63,Female,9168337300,arjunyadav167@gmail.com,Jaipur,O+,None
+P0168,Neha Sharma,23,Female,9882551431,nehasharma168@gmail.com,Mumbai,O+,Heart Disease
+P0169,Sneha Yadav,4,Male,9870585504,snehayadav169@gmail.com,Jaipur,B-,Heart Disease
+P0170,Vikas Chaudhary,50,Male,9057994819,vikaschaudhary170@gmail.com,Kolkata,A-,Hypertension
+P0171,Kavita Chaudhary,3,Female,9850621583,kavitachaudhary171@gmail.com,Lucknow,O+,None
+P0172,Rahul Mishra,35,Female,9413238477,rahulmishra172@gmail.com,Varanasi,AB+,Heart Disease
+P0173,Manish Patel,25,Male,9112023656,manishpatel173@gmail.com,Mumbai,A+,Allergy
+P0174,Rahul Gupta,82,Male,9294918094,rahulgupta174@gmail.com,Chennai,AB+,Asthma
+P0175,Amit Verma,10,Female,9018395185,amitverma175@gmail.com,Pune,O-,Heart Disease
+P0176,Manish Singh,5,Female,9893077868,manishsingh176@gmail.com,Delhi,B+,Thyroid
+P0177,Manish Das,68,Female,9526570269,manishdas177@gmail.com,Mumbai,A+,None
+P0178,Neha Gupta,44,Female,9769917307,nehagupta178@gmail.com,Jaipur,O+,Thyroid
+P0179,Amit Yadav,1,Male,9766294320,amityadav179@gmail.com,Mumbai,A-,Asthma
+P0180,Kiran Singh,46,Male,9438686935,kiransingh180@gmail.com,Kolkata,B+,Hypertension
+P0181,Rahul Verma,33,Male,9776545593,rahulverma181@gmail.com,Mumbai,O+,None
+P0182,Kavita Sharma,10,Male,9511849157,kavitasharma182@gmail.com,Patna,O+,Hypertension
+P0183,Manish Yadav,49,Male,9304095362,manishyadav183@gmail.com,Lucknow,AB+,Diabetes
+P0184,Rahul Verma,62,Male,9307086871,rahulverma184@gmail.com,Varanasi,B-,None
+P0185,Suresh Mishra,45,Male,9530508763,sureshmishra185@gmail.com,Patna,B-,None
+P0186,Kavita Patel,82,Female,9434531974,kavitapatel186@gmail.com,Jaipur,A-,Hypertension
+P0187,Arjun Patel,28,Female,9227686367,arjunpatel187@gmail.com,Varanasi,B-,Diabetes
+P0188,Vikas Singh,44,Male,9432532966,vikassingh188@gmail.com,Kolkata,B+,Asthma
+P0189,Vikas Kumar,74,Female,9587605610,vikaskumar189@gmail.com,Jaipur,AB-,None
+P0190,Deepak Mishra,67,Female,9054418354,deepakmishra190@gmail.com,Pune,AB-,Allergy
+P0191,Suresh Gupta,25,Female,9670948584,sureshgupta191@gmail.com,Mumbai,AB-,Asthma
+P0192,Arjun Gupta,77,Female,9133246532,arjungupta192@gmail.com,Pune,O+,Heart Disease
+P0193,Manish Gupta,16,Female,9914173466,manishgupta193@gmail.com,Mumbai,O+,None
+P0194,Manish Verma,27,Female,9784782968,manishverma194@gmail.com,Varanasi,AB-,Diabetes
+P0195,Amit Chaudhary,36,Female,9785905711,amitchaudhary195@gmail.com,Varanasi,B+,Asthma
+P0196,Rahul Singh,31,Female,9953660100,rahulsingh196@gmail.com,Pune,O-,Heart Disease
+P0197,Anjali Kumar,72,Male,9886777815,anjalikumar197@gmail.com,Patna,O+,Diabetes
+P0198,Kiran Das,32,Female,9860341638,kirandas198@gmail.com,Delhi,B+,Thyroid
+P0199,Suresh Yadav,36,Female,9512383210,sureshyadav199@gmail.com,Jaipur,AB+,Diabetes
+P0200,Kavita Sharma,33,Male,9903677089,kavitasharma200@gmail.com,Mumbai,O-,None
+P0201,Anjali Das,68,Female,9236087068,anjalidas201@gmail.com,Kolkata,O+,Heart Disease
+P0202,Manish Gupta,85,Male,9069715479,manishgupta202@gmail.com,Chennai,AB+,Asthma
+P0203,Sneha Kumar,41,Female,9266359718,snehakumar203@gmail.com,Jaipur,O-,Allergy
+P0204,Deepak Das,14,Male,9525187888,deepakdas204@gmail.com,Bangalore,A-,Hypertension
+P0205,Kiran Mishra,48,Male,9837943267,kiranmishra205@gmail.com,Mumbai,B+,Diabetes
+P0206,Arjun Das,47,Female,9767056460,arjundas206@gmail.com,Bangalore,AB-,Heart Disease
+P0207,Deepak Kumar,12,Male,9646487231,deepakkumar207@gmail.com,Patna,O+,Asthma
+P0208,Priya Mishra,45,Male,9473777347,priyamishra208@gmail.com,Mumbai,A+,Allergy
+P0209,Deepak Yadav,57,Male,9694155320,deepakyadav209@gmail.com,Mumbai,A+,Asthma
+P0210,Ravi Yadav,59,Male,9593239035,raviyadav210@gmail.com,Varanasi,B+,Thyroid
+P0211,Sneha Kumar,16,Female,9162023386,snehakumar211@gmail.com,Delhi,A+,Diabetes
+P0212,Suresh Kumar,29,Male,9261509309,sureshkumar212@gmail.com,Varanasi,AB+,None
+P0213,Sneha Singh,33,Female,9690744774,snehasingh213@gmail.com,Chennai,AB+,Heart Disease
+P0214,Kiran Kumar,66,Male,9490224964,kirankumar214@gmail.com,Lucknow,O-,Asthma
+P0215,Kavita Sharma,25,Female,9932469495,kavitasharma215@gmail.com,Chennai,B-,None
+P0216,Pooja Patel,52,Female,9328528205,poojapatel216@gmail.com,Mumbai,AB-,Thyroid
+P0217,Suresh Chaudhary,53,Female,9478981933,sureshchaudhary217@gmail.com,Bangalore,B-,Allergy
+P0218,Priya Sharma,7,Male,9735859552,priyasharma218@gmail.com,Patna,AB+,Thyroid
+P0219,Pooja Verma,39,Female,9441009369,poojaverma219@gmail.com,Pune,A-,Asthma
+P0220,Neha Singh,60,Female,9097146128,nehasingh220@gmail.com,Varanasi,O+,Diabetes
+P0221,Manish Singh,51,Female,9517193714,manishsingh221@gmail.com,Varanasi,A+,Heart Disease
+P0222,Suresh Verma,57,Female,9315985884,sureshverma222@gmail.com,Jaipur,AB-,Diabetes
+P0223,Deepak Mishra,12,Female,9194426310,deepakmishra223@gmail.com,Delhi,O+,Thyroid
+P0224,Rahul Chaudhary,8,Male,9719570986,rahulchaudhary224@gmail.com,Delhi,A+,Hypertension
+P0225,Deepak Verma,49,Female,9986945995,deepakverma225@gmail.com,Varanasi,A-,Diabetes
+P0226,Amit Gupta,83,Male,9200188586,amitgupta226@gmail.com,Pune,B-,Diabetes
+P0227,Rahul Singh,1,Male,9257697432,rahulsingh227@gmail.com,Delhi,O+,Allergy
+P0228,Arjun Sharma,16,Female,9725929179,arjunsharma228@gmail.com,Varanasi,A-,Allergy
+P0229,Anjali Gupta,59,Male,9577644396,anjaligupta229@gmail.com,Jaipur,AB-,Asthma
+P0230,Rahul Verma,39,Male,9103331328,rahulverma230@gmail.com,Chennai,B-,Asthma
+P0231,Kavita Sharma,37,Male,9081154215,kavitasharma231@gmail.com,Mumbai,B+,None
+P0232,Ravi Sharma,30,Female,9278935031,ravisharma232@gmail.com,Bangalore,A-,Allergy
+P0233,Ravi Chaudhary,80,Male,9938129312,ravichaudhary233@gmail.com,Chennai,A-,Heart Disease
+P0234,Kiran Kumar,40,Male,9825999359,kirankumar234@gmail.com,Lucknow,B+,Diabetes
+P0235,Neha Kumar,85,Male,9682819576,nehakumar235@gmail.com,Kolkata,O-,Thyroid
+P0236,Neha Verma,84,Male,9043043391,nehaverma236@gmail.com,Chennai,B-,Allergy
+P0237,Neha Mishra,14,Male,9648842593,nehamishra237@gmail.com,Chennai,B-,Diabetes
+P0238,Kiran Gupta,67,Female,9951178485,kirangupta238@gmail.com,Delhi,B-,None
+P0239,Manish Yadav,19,Male,9164012155,manishyadav239@gmail.com,Kolkata,O-,Thyroid
+P0240,Kavita Das,65,Male,9223983928,kavitadas240@gmail.com,Patna,AB-,Hypertension
+P0241,Pooja Das,33,Male,9833073865,poojadas241@gmail.com,Varanasi,O+,Thyroid
+P0242,Anjali Yadav,71,Male,9611852196,anjaliyadav242@gmail.com,Chennai,AB+,Allergy
+P0243,Ravi Das,76,Female,9989595731,ravidas243@gmail.com,Mumbai,A+,Allergy
+P0244,Suresh Singh,3,Male,9005084315,sureshsingh244@gmail.com,Bangalore,B+,Hypertension
+P0245,Neha Singh,78,Male,9134766745,nehasingh245@gmail.com,Pune,O+,Diabetes
+P0246,Suresh Patel,61,Male,9292653843,sureshpatel246@gmail.com,Mumbai,A-,Heart Disease
+P0247,Kiran Verma,56,Female,9549650319,kiranverma247@gmail.com,Delhi,A+,Allergy
+P0248,Manish Gupta,65,Male,9161079120,manishgupta248@gmail.com,Mumbai,AB+,None
+P0249,Anjali Mishra,51,Male,9394546318,anjalimishra249@gmail.com,Mumbai,O-,Allergy
+P0250,Manish Sharma,38,Female,9226517085,manishsharma250@gmail.com,Lucknow,B+,Thyroid
+P0251,Manish Verma,27,Male,9509091455,manishverma251@gmail.com,Bangalore,B-,Diabetes
+P0252,Neha Patel,12,Male,9913436868,nehapatel252@gmail.com,Pune,O-,Allergy
+P0253,Ravi Patel,74,Female,9286408801,ravipatel253@gmail.com,Jaipur,AB-,Heart Disease
+P0254,Kiran Kumar,12,Male,9030292711,kirankumar254@gmail.com,Kolkata,O+,Asthma
+P0255,Pooja Mishra,77,Male,9776374291,poojamishra255@gmail.com,Jaipur,O-,None
+P0256,Neha Chaudhary,26,Male,9169945015,nehachaudhary256@gmail.com,Varanasi,B-,Diabetes
+P0257,Sneha Sharma,50,Male,9913072954,snehasharma257@gmail.com,Delhi,AB+,None
+P0258,Sneha Gupta,82,Female,9791403063,snehagupta258@gmail.com,Varanasi,O-,Allergy
+P0259,Neha Singh,21,Male,9303432027,nehasingh259@gmail.com,Patna,A-,Diabetes
+P0260,Suresh Verma,59,Male,9520432236,sureshverma260@gmail.com,Mumbai,AB+,None
+P0261,Suresh Singh,42,Female,9502755667,sureshsingh261@gmail.com,Chennai,AB+,Asthma
+P0262,Amit Patel,79,Female,9959203289,amitpatel262@gmail.com,Jaipur,A-,Diabetes
+P0263,Sneha Patel,6,Male,9078212193,snehapatel263@gmail.com,Jaipur,A+,Allergy
+P0264,Anjali Yadav,47,Male,9406985716,anjaliyadav264@gmail.com,Mumbai,B-,Thyroid
+P0265,Kiran Yadav,70,Female,9716014952,kiranyadav265@gmail.com,Kolkata,O-,Allergy
+P0266,Ravi Sharma,82,Male,9702501086,ravisharma266@gmail.com,Pune,AB-,Heart Disease
+P0267,Manish Gupta,18,Female,9276685624,manishgupta267@gmail.com,Jaipur,AB+,Heart Disease
+P0268,Anjali Chaudhary,59,Female,9390791230,anjalichaudhary268@gmail.com,Kolkata,B-,Allergy
+P0269,Sneha Verma,68,Male,9265703928,snehaverma269@gmail.com,Mumbai,O-,None
+P0270,Kavita Kumar,66,Female,9889111222,kavitakumar270@gmail.com,Chennai,A-,Thyroid
+P0271,Suresh Sharma,8,Female,9106931494,sureshsharma271@gmail.com,Lucknow,AB+,Thyroid
+P0272,Sneha Verma,47,Male,9151574452,snehaverma272@gmail.com,Lucknow,B+,Asthma
+P0273,Neha Patel,84,Male,9266338268,nehapatel273@gmail.com,Chennai,O+,Asthma
+P0274,Manish Verma,77,Female,9355329342,manishverma274@gmail.com,Kolkata,AB+,None
+P0275,Deepak Verma,80,Male,9813390481,deepakverma275@gmail.com,Patna,AB-,Allergy
+P0276,Amit Das,44,Female,9939356406,amitdas276@gmail.com,Patna,B+,Thyroid
+P0277,Rahul Das,22,Male,9651503108,rahuldas277@gmail.com,Kolkata,AB+,None
+P0278,Anjali Das,65,Male,9764518185,anjalidas278@gmail.com,Chennai,AB-,Asthma
+P0279,Amit Verma,53,Male,9541422348,amitverma279@gmail.com,Mumbai,O+,Heart Disease
+P0280,Arjun Kumar,68,Female,9233254782,arjunkumar280@gmail.com,Patna,O+,None
+P0281,Arjun Patel,46,Female,9627656592,arjunpatel281@gmail.com,Pune,AB+,Hypertension
+P0282,Kavita Sharma,59,Male,9126925955,kavitasharma282@gmail.com,Kolkata,A-,Heart Disease
+P0283,Pooja Sharma,81,Female,9759137428,poojasharma283@gmail.com,Lucknow,O+,Thyroid
+P0284,Anjali Yadav,25,Female,9919512369,anjaliyadav284@gmail.com,Lucknow,O-,Heart Disease
+P0285,Arjun Mishra,46,Male,9504112723,arjunmishra285@gmail.com,Bangalore,A-,Allergy
+P0286,Kavita Gupta,9,Male,9049100349,kavitagupta286@gmail.com,Kolkata,O+,Allergy
+P0287,Anjali Mishra,9,Male,9885730894,anjalimishra287@gmail.com,Delhi,O+,Asthma
+P0288,Priya Yadav,33,Female,9159552821,priyayadav288@gmail.com,Patna,A-,Asthma
+P0289,Ravi Singh,50,Male,9566251201,ravisingh289@gmail.com,Kolkata,AB-,Thyroid
+P0290,Priya Patel,20,Female,9307504966,priyapatel290@gmail.com,Bangalore,A-,Hypertension
+P0291,Vikas Patel,10,Male,9677363538,vikaspatel291@gmail.com,Kolkata,B+,Thyroid
+P0292,Sneha Kumar,70,Male,9872833656,snehakumar292@gmail.com,Bangalore,O+,Thyroid
+P0293,Kiran Chaudhary,80,Female,9912175493,kiranchaudhary293@gmail.com,Delhi,A-,Thyroid
+P0294,Manish Kumar,27,Female,9845142009,manishkumar294@gmail.com,Varanasi,B-,Asthma
+P0295,Kavita Singh,18,Male,9854162684,kavitasingh295@gmail.com,Pune,AB-,Diabetes
+P0296,Sneha Patel,39,Male,9642742643,snehapatel296@gmail.com,Chennai,A-,Asthma
+P0297,Vikas Sharma,57,Male,9008679532,vikassharma297@gmail.com,Mumbai,B+,Heart Disease
+P0298,Deepak Chaudhary,68,Male,9920819506,deepakchaudhary298@gmail.com,Delhi,A+,Allergy
+P0299,Suresh Kumar,85,Male,9613135120,sureshkumar299@gmail.com,Patna,O-,Diabetes
+P0300,Sneha Mishra,51,Female,9952570020,snehamishra300@gmail.com,Jaipur,AB-,Heart Disease
+P0301,Neha Das,42,Female,9204891975,nehadas301@gmail.com,Mumbai,A+,Asthma
+P0302,Ravi Gupta,65,Female,9802266405,ravigupta302@gmail.com,Chennai,O+,Diabetes
+P0303,Anjali Das,3,Male,9366083762,anjalidas303@gmail.com,Mumbai,B-,None
+P0304,Kiran Chaudhary,64,Male,9102485740,kiranchaudhary304@gmail.com,Kolkata,B-,Hypertension
+P0305,Pooja Verma,83,Female,9110125586,poojaverma305@gmail.com,Chennai,B-,None
+P0306,Suresh Sharma,72,Male,9255824651,sureshsharma306@gmail.com,Kolkata,B-,Diabetes
+P0307,Kiran Gupta,44,Female,9436404922,kirangupta307@gmail.com,Kolkata,A+,Hypertension
+P0308,Manish Mishra,9,Female,9277481624,manishmishra308@gmail.com,Bangalore,B-,Heart Disease
+P0309,Pooja Mishra,10,Male,9858604802,poojamishra309@gmail.com,Chennai,B+,Diabetes
+P0310,Ravi Chaudhary,77,Male,9750981635,ravichaudhary310@gmail.com,Pune,AB-,Hypertension
+P0311,Pooja Sharma,1,Male,9497734332,poojasharma311@gmail.com,Mumbai,A+,Allergy
+P0312,Kavita Das,19,Male,9734506198,kavitadas312@gmail.com,Varanasi,A+,Diabetes
+P0313,Suresh Yadav,73,Male,9970798892,sureshyadav313@gmail.com,Patna,O+,Thyroid
+P0314,Suresh Mishra,7,Female,9003788780,sureshmishra314@gmail.com,Varanasi,AB-,Hypertension
+P0315,Rahul Sharma,47,Male,9615772811,rahulsharma315@gmail.com,Kolkata,O-,Hypertension
+P0316,Amit Patel,13,Female,9508507570,amitpatel316@gmail.com,Delhi,A+,Diabetes
+P0317,Deepak Singh,18,Male,9575092679,deepaksingh317@gmail.com,Delhi,AB+,Diabetes
+P0318,Neha Yadav,45,Female,9597877502,nehayadav318@gmail.com,Pune,O+,None
+P0319,Anjali Yadav,84,Female,9443713379,anjaliyadav319@gmail.com,Pune,B+,Thyroid
+P0320,Pooja Sharma,72,Male,9706849001,poojasharma320@gmail.com,Patna,AB-,Diabetes
+P0321,Ravi Kumar,27,Female,9892449631,ravikumar321@gmail.com,Jaipur,O+,None
+P0322,Priya Yadav,21,Female,9057970632,priyayadav322@gmail.com,Varanasi,A+,Allergy
+P0323,Sneha Kumar,42,Male,9583896143,snehakumar323@gmail.com,Chennai,AB-,None
+P0324,Kavita Gupta,85,Male,9995130942,kavitagupta324@gmail.com,Bangalore,B+,Asthma
+P0325,Kiran Yadav,60,Male,9648851003,kiranyadav325@gmail.com,Bangalore,B-,None
+P0326,Pooja Sharma,28,Female,9594248669,poojasharma326@gmail.com,Jaipur,B-,Allergy
+P0327,Manish Mishra,78,Female,9185177011,manishmishra327@gmail.com,Pune,A+,Diabetes
+P0328,Neha Kumar,82,Female,9253863949,nehakumar328@gmail.com,Mumbai,O+,Asthma
+P0329,Pooja Kumar,62,Male,9899905783,poojakumar329@gmail.com,Patna,AB+,Heart Disease
+P0330,Arjun Singh,69,Male,9351958591,arjunsingh330@gmail.com,Kolkata,AB+,Hypertension
+P0331,Deepak Yadav,61,Male,9060506805,deepakyadav331@gmail.com,Kolkata,AB+,Diabetes
+P0332,Suresh Mishra,63,Male,9256774792,sureshmishra332@gmail.com,Pune,B-,Asthma
+P0333,Ravi Mishra,84,Female,9263035172,ravimishra333@gmail.com,Pune,A-,None
+P0334,Kavita Verma,17,Female,9535401815,kavitaverma334@gmail.com,Bangalore,AB-,Allergy
+P0335,Anjali Mishra,60,Female,9986241993,anjalimishra335@gmail.com,Varanasi,B+,Thyroid
+P0336,Suresh Mishra,29,Female,9671897101,sureshmishra336@gmail.com,Kolkata,O+,Asthma
+P0337,Anjali Patel,19,Female,9181837573,anjalipatel337@gmail.com,Pune,O-,Diabetes
+P0338,Vikas Chaudhary,27,Male,9721884449,vikaschaudhary338@gmail.com,Varanasi,A-,Thyroid
+P0339,Deepak Kumar,72,Female,9823548714,deepakkumar339@gmail.com,Jaipur,B-,Asthma
+P0340,Kiran Das,65,Female,9491722898,kirandas340@gmail.com,Delhi,A+,Diabetes
+P0341,Manish Kumar,43,Female,9345487525,manishkumar341@gmail.com,Varanasi,A+,Asthma
+P0342,Priya Chaudhary,84,Male,9703605096,priyachaudhary342@gmail.com,Lucknow,AB+,Allergy
+P0343,Rahul Sharma,82,Male,9488811836,rahulsharma343@gmail.com,Patna,B+,Asthma
+P0344,Deepak Yadav,22,Male,9632620636,deepakyadav344@gmail.com,Mumbai,B-,Hypertension
+P0345,Priya Sharma,18,Male,9516276839,priyasharma345@gmail.com,Jaipur,B+,Heart Disease
+P0346,Ravi Yadav,31,Male,9766100245,raviyadav346@gmail.com,Jaipur,O-,Diabetes
+P0347,Kavita Yadav,6,Female,9289155688,kavitayadav347@gmail.com,Chennai,AB-,Diabetes
+P0348,Deepak Yadav,65,Male,9739161591,deepakyadav348@gmail.com,Varanasi,O+,Asthma
+P0349,Pooja Das,14,Male,9331231987,poojadas349@gmail.com,Delhi,B+,Asthma
+P0350,Kavita Patel,48,Female,9377104278,kavitapatel350@gmail.com,Jaipur,A+,Thyroid
+P0351,Kavita Yadav,13,Male,9253056486,kavitayadav351@gmail.com,Varanasi,A-,Diabetes
+P0352,Rahul Patel,44,Male,9510179196,rahulpatel352@gmail.com,Pune,B-,Diabetes
+P0353,Kavita Gupta,56,Male,9352060509,kavitagupta353@gmail.com,Jaipur,O+,Allergy
+P0354,Manish Patel,68,Female,9351223532,manishpatel354@gmail.com,Kolkata,AB-,Hypertension
+P0355,Suresh Chaudhary,33,Male,9696844640,sureshchaudhary355@gmail.com,Pune,B-,Thyroid
+P0356,Ravi Kumar,72,Female,9252683945,ravikumar356@gmail.com,Delhi,AB-,Asthma
+P0357,Sneha Kumar,21,Male,9091066685,snehakumar357@gmail.com,Lucknow,AB-,Heart Disease
+P0358,Neha Patel,12,Female,9706088659,nehapatel358@gmail.com,Chennai,A+,Allergy
+P0359,Vikas Kumar,65,Male,9216149161,vikaskumar359@gmail.com,Lucknow,A-,Allergy
+P0360,Kiran Kumar,14,Female,9961251995,kirankumar360@gmail.com,Patna,O-,Thyroid
+P0361,Ravi Singh,83,Female,9681741759,ravisingh361@gmail.com,Mumbai,A-,Allergy
+P0362,Pooja Chaudhary,84,Female,9009444612,poojachaudhary362@gmail.com,Jaipur,O-,Allergy
+P0363,Pooja Singh,50,Male,9259423464,poojasingh363@gmail.com,Bangalore,A-,None
+P0364,Vikas Yadav,34,Male,9806513548,vikasyadav364@gmail.com,Varanasi,O+,Allergy
+P0365,Anjali Patel,4,Male,9829547425,anjalipatel365@gmail.com,Kolkata,A+,Heart Disease
+P0366,Arjun Singh,83,Male,9606427141,arjunsingh366@gmail.com,Bangalore,B-,None
+P0367,Sneha Singh,62,Male,9236134324,snehasingh367@gmail.com,Bangalore,O-,Diabetes
+P0368,Vikas Das,14,Female,9045648306,vikasdas368@gmail.com,Varanasi,B-,Allergy
+P0369,Amit Singh,64,Female,9103794169,amitsingh369@gmail.com,Pune,A+,Hypertension
+P0370,Amit Sharma,12,Female,9909091075,amitsharma370@gmail.com,Bangalore,O-,Allergy
+P0371,Priya Yadav,41,Male,9692026921,priyayadav371@gmail.com,Lucknow,AB-,Heart Disease
+P0372,Neha Gupta,35,Male,9423127176,nehagupta372@gmail.com,Mumbai,O+,Heart Disease
+P0373,Suresh Patel,77,Female,9916806000,sureshpatel373@gmail.com,Kolkata,A-,None
+P0374,Neha Singh,53,Male,9171461619,nehasingh374@gmail.com,Patna,A+,Diabetes
+P0375,Priya Kumar,57,Male,9068483194,priyakumar375@gmail.com,Jaipur,B+,Diabetes
+P0376,Deepak Patel,37,Female,9906597155,deepakpatel376@gmail.com,Jaipur,O+,Hypertension
+P0377,Manish Gupta,71,Female,9748256711,manishgupta377@gmail.com,Bangalore,A-,Hypertension
+P0378,Amit Das,40,Male,9377787866,amitdas378@gmail.com,Lucknow,B-,Asthma
+P0379,Priya Sharma,69,Male,9537874593,priyasharma379@gmail.com,Delhi,A+,Allergy
+P0380,Deepak Mishra,44,Female,9464040729,deepakmishra380@gmail.com,Delhi,O+,Allergy
+P0381,Suresh Yadav,84,Male,9255098294,sureshyadav381@gmail.com,Varanasi,AB+,Asthma
+P0382,Sneha Das,47,Female,9188555339,snehadas382@gmail.com,Kolkata,B-,None
+P0383,Arjun Yadav,2,Male,9117576157,arjunyadav383@gmail.com,Lucknow,O+,Thyroid
+P0384,Neha Das,38,Female,9396448163,nehadas384@gmail.com,Pune,AB+,None
+P0385,Neha Yadav,43,Male,9746838987,nehayadav385@gmail.com,Mumbai,AB+,Thyroid
+P0386,Vikas Kumar,15,Female,9156143644,vikaskumar386@gmail.com,Patna,AB-,Hypertension
+P0387,Amit Gupta,61,Male,9362012537,amitgupta387@gmail.com,Varanasi,B+,Asthma
+P0388,Kavita Yadav,63,Female,9462993690,kavitayadav388@gmail.com,Varanasi,A-,Hypertension
+P0389,Deepak Singh,8,Male,9302787674,deepaksingh389@gmail.com,Mumbai,B+,Allergy
+P0390,Anjali Chaudhary,83,Male,9671687092,anjalichaudhary390@gmail.com,Jaipur,A-,Hypertension
+P0391,Priya Das,23,Female,9813768425,priyadas391@gmail.com,Jaipur,B-,Diabetes
+P0392,Deepak Gupta,3,Male,9804137205,deepakgupta392@gmail.com,Delhi,B+,Diabetes
+P0393,Priya Patel,64,Male,9937770135,priyapatel393@gmail.com,Jaipur,O+,Asthma
+P0394,Priya Patel,7,Female,9703133446,priyapatel394@gmail.com,Jaipur,AB+,None
+P0395,Vikas Sharma,17,Female,9674181923,vikassharma395@gmail.com,Chennai,O+,Heart Disease
+P0396,Amit Singh,43,Male,9719766914,amitsingh396@gmail.com,Bangalore,AB-,None
+P0397,Suresh Kumar,12,Female,9127431560,sureshkumar397@gmail.com,Chennai,O-,Allergy
+P0398,Deepak Das,5,Male,9725678302,deepakdas398@gmail.com,Pune,AB+,Diabetes
+P0399,Anjali Chaudhary,14,Male,9422807771,anjalichaudhary399@gmail.com,Patna,AB+,None
+P0400,Ravi Das,9,Male,9606393246,ravidas400@gmail.com,Varanasi,B+,None
+P0401,Suresh Chaudhary,29,Male,9157242204,sureshchaudhary401@gmail.com,Lucknow,B+,Diabetes
+P0402,Ravi Kumar,45,Male,9793844322,ravikumar402@gmail.com,Lucknow,O+,Heart Disease
+P0403,Kiran Singh,55,Female,9441241284,kiransingh403@gmail.com,Bangalore,AB+,Heart Disease
+P0404,Suresh Sharma,50,Female,9516649129,sureshsharma404@gmail.com,Jaipur,B-,Asthma
+P0405,Suresh Mishra,85,Female,9722735645,sureshmishra405@gmail.com,Lucknow,O+,Asthma
+P0406,Deepak Das,32,Male,9356044649,deepakdas406@gmail.com,Varanasi,O-,Asthma
+P0407,Arjun Sharma,22,Male,9331328685,arjunsharma407@gmail.com,Lucknow,AB-,Thyroid
+P0408,Sneha Das,66,Male,9459879392,snehadas408@gmail.com,Mumbai,O-,Diabetes
+P0409,Arjun Patel,65,Female,9603984819,arjunpatel409@gmail.com,Pune,B-,Diabetes
+P0410,Sneha Mishra,21,Female,9956777164,snehamishra410@gmail.com,Kolkata,A+,Diabetes
+P0411,Kiran Das,31,Female,9850715452,kirandas411@gmail.com,Mumbai,A+,Diabetes
+P0412,Rahul Sharma,27,Female,9398741527,rahulsharma412@gmail.com,Pune,A-,Diabetes
+P0413,Suresh Kumar,17,Male,9521136848,sureshkumar413@gmail.com,Pune,A-,Hypertension
+P0414,Amit Das,36,Female,9880507705,amitdas414@gmail.com,Lucknow,B+,Hypertension
+P0415,Neha Chaudhary,15,Male,9842592541,nehachaudhary415@gmail.com,Chennai,B+,Asthma
+P0416,Amit Mishra,4,Male,9322224099,amitmishra416@gmail.com,Lucknow,O-,Hypertension
+P0417,Sneha Patel,73,Male,9997684934,snehapatel417@gmail.com,Kolkata,AB-,Asthma
+P0418,Arjun Verma,67,Male,9875339155,arjunverma418@gmail.com,Mumbai,B+,Hypertension
+P0419,Arjun Kumar,45,Male,9892469576,arjunkumar419@gmail.com,Bangalore,A+,Hypertension
+P0420,Rahul Kumar,75,Female,9808339161,rahulkumar420@gmail.com,Varanasi,O+,Thyroid
+P0421,Pooja Sharma,77,Male,9729435935,poojasharma421@gmail.com,Mumbai,B-,Heart Disease
+P0422,Kavita Yadav,58,Male,9674019131,kavitayadav422@gmail.com,Chennai,B-,None
+P0423,Arjun Gupta,73,Female,9160816606,arjungupta423@gmail.com,Bangalore,AB-,None
+P0424,Anjali Verma,64,Male,9032900428,anjaliverma424@gmail.com,Jaipur,A+,Asthma
+P0425,Manish Verma,37,Female,9842299952,manishverma425@gmail.com,Mumbai,B-,None
+P0426,Pooja Kumar,5,Male,9098466745,poojakumar426@gmail.com,Chennai,B+,Heart Disease
+P0427,Rahul Mishra,60,Male,9085404705,rahulmishra427@gmail.com,Chennai,A-,Thyroid
+P0428,Neha Mishra,33,Male,9085751598,nehamishra428@gmail.com,Pune,B+,Asthma
+P0429,Ravi Gupta,55,Female,9300610280,ravigupta429@gmail.com,Lucknow,O-,Heart Disease
+P0430,Ravi Patel,19,Female,9691369885,ravipatel430@gmail.com,Mumbai,A-,None
+P0431,Manish Yadav,72,Female,9040033592,manishyadav431@gmail.com,Varanasi,AB+,Hypertension
+P0432,Manish Gupta,25,Male,9774457482,manishgupta432@gmail.com,Lucknow,O+,None
+P0433,Rahul Singh,40,Female,9523097314,rahulsingh433@gmail.com,Mumbai,O+,Thyroid
+P0434,Amit Yadav,42,Female,9095153310,amityadav434@gmail.com,Lucknow,AB-,Asthma
+P0435,Arjun Verma,6,Male,9434374789,arjunverma435@gmail.com,Chennai,AB+,Diabetes
+P0436,Kavita Yadav,18,Male,9803051833,kavitayadav436@gmail.com,Varanasi,B+,Thyroid
+P0437,Priya Mishra,14,Male,9857722898,priyamishra437@gmail.com,Patna,B-,None
+P0438,Kiran Patel,62,Female,9242792188,kiranpatel438@gmail.com,Jaipur,A-,Diabetes
+P0439,Anjali Patel,13,Female,9211000242,anjalipatel439@gmail.com,Lucknow,B+,Allergy
+P0440,Rahul Patel,33,Male,9057532113,rahulpatel440@gmail.com,Varanasi,B-,Allergy
+P0441,Anjali Das,24,Female,9974916871,anjalidas441@gmail.com,Lucknow,B-,Allergy
+P0442,Sneha Mishra,63,Male,9070849314,snehamishra442@gmail.com,Lucknow,A+,Heart Disease
+P0443,Anjali Sharma,4,Male,9529303397,anjalisharma443@gmail.com,Varanasi,B-,Heart Disease
+P0444,Deepak Gupta,2,Female,9119683688,deepakgupta444@gmail.com,Delhi,B-,Diabetes
+P0445,Neha Chaudhary,43,Female,9709314126,nehachaudhary445@gmail.com,Lucknow,B+,Heart Disease
+P0446,Arjun Mishra,23,Male,9921455090,arjunmishra446@gmail.com,Kolkata,A-,None
+P0447,Deepak Chaudhary,66,Female,9112992857,deepakchaudhary447@gmail.com,Mumbai,AB+,Asthma
+P0448,Arjun Sharma,73,Male,9526745425,arjunsharma448@gmail.com,Delhi,B+,Asthma
+P0449,Sneha Verma,28,Female,9939115479,snehaverma449@gmail.com,Patna,AB-,Hypertension
+P0450,Neha Mishra,67,Male,9548822657,nehamishra450@gmail.com,Kolkata,B-,Heart Disease
+P0451,Amit Patel,10,Male,9547961699,amitpatel451@gmail.com,Delhi,O-,Allergy
+P0452,Neha Kumar,30,Female,9418465663,nehakumar452@gmail.com,Bangalore,A-,Allergy
+P0453,Suresh Patel,12,Male,9130535408,sureshpatel453@gmail.com,Kolkata,A-,Heart Disease
+P0454,Deepak Yadav,78,Female,9950762393,deepakyadav454@gmail.com,Kolkata,O+,Allergy
+P0455,Ravi Sharma,66,Male,9821416281,ravisharma455@gmail.com,Mumbai,AB+,Asthma
+P0456,Vikas Sharma,53,Male,9703693434,vikassharma456@gmail.com,Jaipur,AB-,None
+P0457,Anjali Sharma,8,Female,9703255019,anjalisharma457@gmail.com,Varanasi,O-,Allergy
+P0458,Priya Mishra,14,Female,9394368709,priyamishra458@gmail.com,Mumbai,O-,Thyroid
+P0459,Anjali Das,75,Male,9284324486,anjalidas459@gmail.com,Delhi,A-,Thyroid
+P0460,Anjali Sharma,62,Female,9597020965,anjalisharma460@gmail.com,Patna,A+,Diabetes
+P0461,Manish Yadav,22,Male,9366206316,manishyadav461@gmail.com,Mumbai,AB-,Thyroid
+P0462,Sneha Chaudhary,45,Male,9463727287,snehachaudhary462@gmail.com,Kolkata,O-,Heart Disease
+P0463,Manish Das,76,Female,9921645772,manishdas463@gmail.com,Patna,AB+,Heart Disease
+P0464,Sneha Kumar,9,Female,9506599720,snehakumar464@gmail.com,Jaipur,AB-,Hypertension
+P0465,Kiran Gupta,25,Female,9834114512,kirangupta465@gmail.com,Mumbai,O+,Hypertension
+P0466,Amit Sharma,43,Male,9708874437,amitsharma466@gmail.com,Patna,AB+,Heart Disease
+P0467,Ravi Chaudhary,36,Male,9151144397,ravichaudhary467@gmail.com,Jaipur,B-,Thyroid
+P0468,Vikas Das,49,Female,9018830728,vikasdas468@gmail.com,Bangalore,O-,Hypertension
+P0469,Kavita Chaudhary,78,Female,9944718872,kavitachaudhary469@gmail.com,Varanasi,O+,Thyroid
+P0470,Ravi Kumar,27,Male,9991045015,ravikumar470@gmail.com,Kolkata,B-,Hypertension
+P0471,Arjun Mishra,17,Female,9111416058,arjunmishra471@gmail.com,Pune,AB-,Asthma
+P0472,Rahul Kumar,71,Female,9632986748,rahulkumar472@gmail.com,Kolkata,AB-,Diabetes
+P0473,Priya Chaudhary,56,Male,9873631473,priyachaudhary473@gmail.com,Mumbai,O-,Allergy
+P0474,Amit Verma,5,Male,9621779930,amitverma474@gmail.com,Bangalore,A-,Allergy
+P0475,Sneha Kumar,26,Female,9254822658,snehakumar475@gmail.com,Delhi,AB-,Thyroid
+P0476,Rahul Yadav,77,Male,9879158131,rahulyadav476@gmail.com,Jaipur,A-,Asthma
+P0477,Vikas Verma,28,Male,9131234165,vikasverma477@gmail.com,Chennai,O-,Hypertension
+P0478,Kiran Gupta,68,Male,9955752352,kirangupta478@gmail.com,Bangalore,AB-,Thyroid
+P0479,Sneha Mishra,16,Male,9722733849,snehamishra479@gmail.com,Mumbai,A-,Heart Disease
+P0480,Anjali Patel,48,Male,9244019543,anjalipatel480@gmail.com,Mumbai,O-,Allergy
+P0481,Kiran Singh,69,Male,9514304281,kiransingh481@gmail.com,Kolkata,O+,None
+P0482,Sneha Gupta,37,Female,9179866126,snehagupta482@gmail.com,Varanasi,AB+,Thyroid
+P0483,Suresh Kumar,25,Female,9144991635,sureshkumar483@gmail.com,Mumbai,O-,Asthma
+P0484,Arjun Yadav,48,Female,9802875817,arjunyadav484@gmail.com,Chennai,O+,Allergy
+P0485,Neha Patel,35,Female,9815983450,nehapatel485@gmail.com,Varanasi,A+,None
+P0486,Kavita Sharma,21,Male,9212265015,kavitasharma486@gmail.com,Lucknow,AB+,Allergy
+P0487,Sneha Yadav,83,Female,9600139683,snehayadav487@gmail.com,Lucknow,O-,Allergy
+P0488,Deepak Chaudhary,68,Male,9184722862,deepakchaudhary488@gmail.com,Delhi,O+,Diabetes
+P0489,Arjun Chaudhary,82,Female,9327123582,arjunchaudhary489@gmail.com,Patna,O+,Asthma
+P0490,Ravi Patel,35,Male,9705451469,ravipatel490@gmail.com,Pune,O-,Hypertension
+P0491,Priya Singh,42,Female,9129164122,priyasingh491@gmail.com,Lucknow,O+,None
+P0492,Amit Mishra,66,Female,9320825909,amitmishra492@gmail.com,Kolkata,B+,Diabetes
+P0493,Sneha Das,4,Female,9290906828,snehadas493@gmail.com,Chennai,AB-,Allergy
+P0494,Kavita Yadav,20,Male,9009883606,kavitayadav494@gmail.com,Patna,A+,Heart Disease
+P0495,Kavita Kumar,81,Female,9455434802,kavitakumar495@gmail.com,Jaipur,AB-,Heart Disease
+P0496,Sneha Yadav,28,Male,9774018544,snehayadav496@gmail.com,Patna,B+,Allergy
+P0497,Suresh Sharma,49,Female,9153239656,sureshsharma497@gmail.com,Pune,AB+,Heart Disease
+P0498,Rahul Yadav,24,Male,9100709581,rahulyadav498@gmail.com,Patna,O-,Asthma
+P0499,Suresh Singh,2,Female,9190242549,sureshsingh499@gmail.com,Jaipur,AB-,Diabetes
+P0500,Sneha Patel,4,Female,9264501504,snehapatel500@gmail.com,Mumbai,A+,Allergy
+P0501,Ravi Sharma,48,Male,9810534099,ravisharma501@gmail.com,Patna,O-,Allergy
+P0502,Priya Patel,30,Female,9336941410,priyapatel502@gmail.com,Bangalore,A-,None
+P0503,Anjali Mishra,31,Female,9370297999,anjalimishra503@gmail.com,Patna,B-,Allergy
+P0504,Kavita Patel,58,Male,9043718265,kavitapatel504@gmail.com,Varanasi,A+,Hypertension
+P0505,Ravi Chaudhary,16,Male,9931010580,ravichaudhary505@gmail.com,Lucknow,AB+,Hypertension
+P0506,Sneha Singh,60,Female,9947106712,snehasingh506@gmail.com,Mumbai,O+,Heart Disease
+P0507,Amit Patel,23,Female,9215428978,amitpatel507@gmail.com,Varanasi,O-,None
+P0508,Deepak Gupta,41,Male,9787989803,deepakgupta508@gmail.com,Varanasi,O+,Thyroid
+P0509,Neha Kumar,42,Female,9999752587,nehakumar509@gmail.com,Kolkata,A-,Heart Disease
+P0510,Amit Gupta,18,Female,9785269337,amitgupta510@gmail.com,Jaipur,A-,Diabetes
+P0511,Priya Gupta,41,Female,9485830004,priyagupta511@gmail.com,Delhi,A+,Allergy
+P0512,Kavita Mishra,41,Female,9526524560,kavitamishra512@gmail.com,Varanasi,A-,Diabetes
+P0513,Rahul Yadav,27,Female,9234930245,rahulyadav513@gmail.com,Pune,AB-,Hypertension
+P0514,Vikas Gupta,18,Male,9528338783,vikasgupta514@gmail.com,Patna,A-,Diabetes
+P0515,Amit Mishra,57,Male,9709249153,amitmishra515@gmail.com,Patna,A-,Hypertension
+P0516,Pooja Patel,76,Female,9898086505,poojapatel516@gmail.com,Patna,A-,Asthma
+P0517,Manish Das,10,Male,9759911121,manishdas517@gmail.com,Chennai,AB-,Hypertension
+P0518,Anjali Patel,50,Male,9330246321,anjalipatel518@gmail.com,Pune,AB+,Hypertension
+P0519,Deepak Das,41,Female,9449036899,deepakdas519@gmail.com,Pune,A-,Thyroid
+P0520,Kavita Patel,81,Male,9332795146,kavitapatel520@gmail.com,Bangalore,O+,Thyroid
+P0521,Rahul Mishra,67,Female,9416795925,rahulmishra521@gmail.com,Kolkata,AB-,Hypertension
+P0522,Amit Chaudhary,47,Male,9557101673,amitchaudhary522@gmail.com,Delhi,B-,Thyroid
+P0523,Kiran Singh,13,Female,9198091870,kiransingh523@gmail.com,Delhi,B+,None
+P0524,Ravi Kumar,19,Male,9352975796,ravikumar524@gmail.com,Chennai,AB+,Asthma
+P0525,Kiran Gupta,20,Male,9373347954,kirangupta525@gmail.com,Chennai,AB-,Heart Disease
+P0526,Suresh Yadav,57,Male,9473258344,sureshyadav526@gmail.com,Lucknow,AB+,None
+P0527,Amit Verma,38,Female,9461018431,amitverma527@gmail.com,Lucknow,O-,Allergy
+P0528,Rahul Verma,73,Male,9542497163,rahulverma528@gmail.com,Bangalore,AB-,None
+P0529,Pooja Verma,65,Female,9560315930,poojaverma529@gmail.com,Pune,O+,Diabetes
+P0530,Kavita Das,61,Female,9391354651,kavitadas530@gmail.com,Delhi,O+,Hypertension
+P0531,Ravi Kumar,29,Male,9744503168,ravikumar531@gmail.com,Patna,O-,Hypertension
+P0532,Manish Sharma,20,Female,9891084923,manishsharma532@gmail.com,Pune,A-,None
+P0533,Deepak Chaudhary,59,Male,9016232028,deepakchaudhary533@gmail.com,Lucknow,AB-,Hypertension
+P0534,Rahul Singh,43,Female,9980929170,rahulsingh534@gmail.com,Mumbai,O+,Allergy
+P0535,Sneha Singh,23,Female,9548238699,snehasingh535@gmail.com,Pune,O-,Diabetes
+P0536,Rahul Gupta,78,Female,9666946842,rahulgupta536@gmail.com,Mumbai,A-,Heart Disease
+P0537,Arjun Patel,78,Male,9913506499,arjunpatel537@gmail.com,Mumbai,O+,Hypertension
+P0538,Kavita Kumar,31,Male,9495905349,kavitakumar538@gmail.com,Mumbai,O-,Thyroid
+P0539,Amit Chaudhary,80,Female,9007728870,amitchaudhary539@gmail.com,Jaipur,O+,Heart Disease
+P0540,Priya Patel,75,Male,9217526475,priyapatel540@gmail.com,Delhi,AB-,Thyroid
+P0541,Amit Chaudhary,76,Male,9470798479,amitchaudhary541@gmail.com,Varanasi,AB-,None
+P0542,Manish Gupta,79,Female,9654004772,manishgupta542@gmail.com,Pune,A+,Asthma
+P0543,Vikas Verma,47,Female,9275072507,vikasverma543@gmail.com,Chennai,AB+,Hypertension
+P0544,Rahul Kumar,66,Male,9278679320,rahulkumar544@gmail.com,Pune,AB+,Thyroid
+P0545,Neha Sharma,70,Male,9700289171,nehasharma545@gmail.com,Kolkata,O+,Thyroid
+P0546,Amit Verma,65,Male,9996389963,amitverma546@gmail.com,Jaipur,O-,Asthma
+P0547,Suresh Chaudhary,53,Female,9981898147,sureshchaudhary547@gmail.com,Varanasi,O-,Hypertension
+P0548,Rahul Sharma,37,Male,9557184080,rahulsharma548@gmail.com,Mumbai,B-,Thyroid
+P0549,Neha Das,35,Male,9918535809,nehadas549@gmail.com,Delhi,B+,Heart Disease
+P0550,Amit Verma,64,Female,9955695164,amitverma550@gmail.com,Mumbai,O-,Diabetes
+P0551,Amit Verma,8,Female,9632944646,amitverma551@gmail.com,Jaipur,B-,Hypertension
+P0552,Suresh Yadav,42,Male,9086037463,sureshyadav552@gmail.com,Jaipur,A+,Heart Disease
+P0553,Neha Gupta,49,Male,9534580216,nehagupta553@gmail.com,Delhi,B-,Heart Disease
+P0554,Arjun Das,18,Female,9966588784,arjundas554@gmail.com,Kolkata,O-,Hypertension
+P0555,Arjun Yadav,63,Male,9350489463,arjunyadav555@gmail.com,Mumbai,AB+,Heart Disease
+P0556,Neha Chaudhary,46,Male,9538718536,nehachaudhary556@gmail.com,Delhi,O-,Thyroid
+P0557,Kiran Mishra,25,Male,9976668837,kiranmishra557@gmail.com,Jaipur,O+,Thyroid
+P0558,Amit Sharma,47,Female,9080465452,amitsharma558@gmail.com,Patna,A-,Thyroid
+P0559,Rahul Das,65,Male,9297604848,rahuldas559@gmail.com,Jaipur,AB-,Diabetes
+P0560,Deepak Chaudhary,33,Male,9752428348,deepakchaudhary560@gmail.com,Pune,B-,Asthma
+P0561,Rahul Singh,85,Male,9274476468,rahulsingh561@gmail.com,Kolkata,AB+,Allergy
+P0562,Deepak Yadav,2,Male,9974845704,deepakyadav562@gmail.com,Jaipur,O-,Asthma
+P0563,Suresh Verma,16,Male,9315241570,sureshverma563@gmail.com,Bangalore,A+,Thyroid
+P0564,Neha Sharma,43,Female,9211298123,nehasharma564@gmail.com,Lucknow,O+,None
+P0565,Deepak Mishra,59,Female,9338528141,deepakmishra565@gmail.com,Mumbai,AB-,Thyroid
+P0566,Arjun Gupta,40,Male,9822846552,arjungupta566@gmail.com,Varanasi,B-,None
+P0567,Ravi Sharma,12,Male,9536313522,ravisharma567@gmail.com,Bangalore,B-,Thyroid
+P0568,Deepak Mishra,51,Female,9557073788,deepakmishra568@gmail.com,Bangalore,B-,Thyroid
+P0569,Arjun Kumar,81,Female,9972017370,arjunkumar569@gmail.com,Chennai,AB+,Asthma
+P0570,Kiran Patel,18,Female,9568213245,kiranpatel570@gmail.com,Bangalore,AB-,Diabetes
+P0571,Deepak Gupta,15,Female,9347148329,deepakgupta571@gmail.com,Kolkata,B+,Hypertension
+P0572,Suresh Sharma,34,Male,9574468595,sureshsharma572@gmail.com,Mumbai,A-,None
+P0573,Deepak Yadav,57,Female,9594020350,deepakyadav573@gmail.com,Jaipur,AB+,Allergy
+P0574,Anjali Yadav,17,Female,9480618900,anjaliyadav574@gmail.com,Kolkata,A-,None
+P0575,Rahul Sharma,76,Female,9595606273,rahulsharma575@gmail.com,Kolkata,A+,Thyroid
+P0576,Neha Patel,36,Male,9423993694,nehapatel576@gmail.com,Kolkata,B+,Heart Disease
+P0577,Anjali Kumar,80,Female,9290256972,anjalikumar577@gmail.com,Varanasi,A-,Allergy
+P0578,Amit Singh,12,Female,9036821459,amitsingh578@gmail.com,Chennai,A+,Diabetes
+P0579,Kiran Sharma,49,Male,9041707269,kiransharma579@gmail.com,Lucknow,O+,Asthma
+P0580,Deepak Yadav,51,Female,9459621768,deepakyadav580@gmail.com,Mumbai,B-,Hypertension
+P0581,Suresh Sharma,68,Male,9680325579,sureshsharma581@gmail.com,Jaipur,AB-,Allergy
+P0582,Pooja Yadav,16,Female,9714949023,poojayadav582@gmail.com,Patna,O-,Heart Disease
+P0583,Manish Patel,58,Male,9229783546,manishpatel583@gmail.com,Bangalore,A-,Diabetes
+P0584,Vikas Chaudhary,33,Female,9921560271,vikaschaudhary584@gmail.com,Pune,A+,Thyroid
+P0585,Pooja Gupta,45,Male,9507806698,poojagupta585@gmail.com,Varanasi,O-,Asthma
+P0586,Ravi Singh,20,Female,9403883570,ravisingh586@gmail.com,Chennai,O-,Heart Disease
+P0587,Priya Yadav,2,Male,9589725318,priyayadav587@gmail.com,Bangalore,O-,None
+P0588,Deepak Singh,61,Male,9670535506,deepaksingh588@gmail.com,Bangalore,O-,Hypertension
+P0589,Kiran Gupta,46,Female,9611040497,kirangupta589@gmail.com,Chennai,O-,Hypertension
+P0590,Neha Gupta,64,Male,9013512671,nehagupta590@gmail.com,Kolkata,A-,Thyroid
+P0591,Arjun Yadav,40,Female,9362704460,arjunyadav591@gmail.com,Pune,A+,Allergy
+P0592,Suresh Gupta,1,Female,9936872931,sureshgupta592@gmail.com,Chennai,AB-,Thyroid
+P0593,Amit Verma,60,Female,9424010952,amitverma593@gmail.com,Mumbai,A+,Asthma
+P0594,Manish Verma,67,Male,9143392317,manishverma594@gmail.com,Kolkata,O-,Asthma
+P0595,Manish Gupta,11,Female,9244675943,manishgupta595@gmail.com,Mumbai,AB-,Hypertension
+P0596,Priya Kumar,4,Male,9521004609,priyakumar596@gmail.com,Chennai,AB-,Hypertension
+P0597,Anjali Verma,69,Female,9452072553,anjaliverma597@gmail.com,Kolkata,A-,None
+P0598,Kiran Singh,69,Female,9998021784,kiransingh598@gmail.com,Lucknow,O-,Diabetes
+P0599,Deepak Singh,21,Male,9845186819,deepaksingh599@gmail.com,Patna,B-,Hypertension
+P0600,Deepak Verma,45,Female,9499145756,deepakverma600@gmail.com,Kolkata,O-,Heart Disease
+P0601,Vikas Das,18,Male,9159881167,vikasdas601@gmail.com,Lucknow,AB-,Thyroid
+P0602,Arjun Yadav,12,Female,9074996942,arjunyadav602@gmail.com,Kolkata,AB+,Diabetes
+P0603,Arjun Das,85,Female,9819296569,arjundas603@gmail.com,Chennai,AB+,Asthma
+P0604,Kavita Patel,55,Female,9774319333,kavitapatel604@gmail.com,Jaipur,B-,Diabetes
+P0605,Priya Verma,15,Male,9751665536,priyaverma605@gmail.com,Varanasi,B+,None
+P0606,Anjali Yadav,48,Male,9771486565,anjaliyadav606@gmail.com,Kolkata,O+,Asthma
+P0607,Vikas Mishra,47,Female,9018075847,vikasmishra607@gmail.com,Bangalore,B+,Diabetes
+P0608,Pooja Singh,5,Female,9973425324,poojasingh608@gmail.com,Jaipur,AB-,Heart Disease
+P0609,Vikas Singh,5,Female,9324440909,vikassingh609@gmail.com,Kolkata,AB+,Heart Disease
+P0610,Ravi Yadav,26,Male,9051914218,raviyadav610@gmail.com,Bangalore,AB+,Diabetes
+P0611,Kiran Das,3,Male,9120860013,kirandas611@gmail.com,Varanasi,A+,Hypertension
+P0612,Rahul Chaudhary,68,Female,9563315389,rahulchaudhary612@gmail.com,Delhi,A+,Diabetes
+P0613,Arjun Verma,18,Male,9871304895,arjunverma613@gmail.com,Patna,A+,Heart Disease
+P0614,Ravi Yadav,81,Female,9396386065,raviyadav614@gmail.com,Kolkata,AB-,Hypertension
+P0615,Suresh Patel,71,Male,9078703809,sureshpatel615@gmail.com,Jaipur,AB+,None
+P0616,Kavita Mishra,72,Male,9926006087,kavitamishra616@gmail.com,Kolkata,A-,Thyroid
+P0617,Deepak Sharma,10,Female,9726577424,deepaksharma617@gmail.com,Patna,A+,Hypertension
+P0618,Kavita Patel,35,Female,9537803679,kavitapatel618@gmail.com,Varanasi,AB-,None
+P0619,Suresh Verma,45,Female,9247577006,sureshverma619@gmail.com,Patna,A+,Thyroid
+P0620,Kiran Singh,43,Female,9129936133,kiransingh620@gmail.com,Kolkata,O-,Diabetes
+P0621,Neha Yadav,28,Male,9918840616,nehayadav621@gmail.com,Pune,O+,Hypertension
+P0622,Pooja Mishra,44,Male,9693325857,poojamishra622@gmail.com,Delhi,O+,Asthma
+P0623,Priya Das,39,Female,9528613865,priyadas623@gmail.com,Patna,A-,Heart Disease
+P0624,Manish Gupta,74,Male,9186068861,manishgupta624@gmail.com,Pune,A+,Thyroid
+P0625,Vikas Patel,77,Male,9043560695,vikaspatel625@gmail.com,Jaipur,O-,Asthma
+P0626,Arjun Singh,77,Male,9136073957,arjunsingh626@gmail.com,Pune,O-,Allergy
+P0627,Priya Chaudhary,31,Female,9211560844,priyachaudhary627@gmail.com,Patna,AB+,Hypertension
+P0628,Rahul Gupta,84,Female,9417746275,rahulgupta628@gmail.com,Varanasi,O+,Allergy
+P0629,Ravi Kumar,55,Female,9931456124,ravikumar629@gmail.com,Mumbai,A-,Allergy
+P0630,Ravi Yadav,39,Female,9833889540,raviyadav630@gmail.com,Mumbai,B-,Heart Disease
+P0631,Sneha Kumar,28,Male,9318099858,snehakumar631@gmail.com,Mumbai,B+,Allergy
+P0632,Manish Singh,20,Male,9791679726,manishsingh632@gmail.com,Lucknow,B+,Asthma
+P0633,Amit Yadav,40,Male,9510874754,amityadav633@gmail.com,Kolkata,A+,Hypertension
+P0634,Kiran Verma,40,Female,9282081122,kiranverma634@gmail.com,Jaipur,AB-,Hypertension
+P0635,Neha Sharma,69,Male,9725907169,nehasharma635@gmail.com,Kolkata,A+,Hypertension
+P0636,Deepak Gupta,36,Female,9049817200,deepakgupta636@gmail.com,Lucknow,A-,Heart Disease
+P0637,Amit Chaudhary,75,Female,9969670713,amitchaudhary637@gmail.com,Chennai,B-,Thyroid
+P0638,Priya Sharma,49,Male,9417645906,priyasharma638@gmail.com,Bangalore,A+,Asthma
+P0639,Manish Gupta,45,Female,9144210469,manishgupta639@gmail.com,Pune,A-,Hypertension
+P0640,Vikas Gupta,19,Female,9016384698,vikasgupta640@gmail.com,Jaipur,A-,Asthma
+P0641,Arjun Das,66,Male,9433490419,arjundas641@gmail.com,Lucknow,A+,Thyroid
+P0642,Rahul Sharma,39,Male,9858141980,rahulsharma642@gmail.com,Lucknow,A-,Allergy
+P0643,Ravi Yadav,78,Female,9055107009,raviyadav643@gmail.com,Chennai,O-,None
+P0644,Manish Singh,53,Male,9613234754,manishsingh644@gmail.com,Bangalore,A-,Allergy
+P0645,Anjali Sharma,51,Male,9350811520,anjalisharma645@gmail.com,Patna,B-,Allergy
+P0646,Suresh Kumar,34,Male,9484950909,sureshkumar646@gmail.com,Pune,O-,Thyroid
+P0647,Vikas Gupta,63,Female,9236791723,vikasgupta647@gmail.com,Kolkata,AB+,Diabetes
+P0648,Kavita Mishra,43,Female,9185071653,kavitamishra648@gmail.com,Jaipur,O-,Diabetes
+P0649,Rahul Mishra,42,Male,9814673937,rahulmishra649@gmail.com,Patna,B+,Diabetes
+P0650,Arjun Mishra,66,Female,9353335830,arjunmishra650@gmail.com,Lucknow,B-,Diabetes
+P0651,Rahul Singh,57,Female,9500385704,rahulsingh651@gmail.com,Chennai,AB+,Thyroid
+P0652,Pooja Chaudhary,69,Female,9929633929,poojachaudhary652@gmail.com,Mumbai,B-,Thyroid
+P0653,Pooja Singh,75,Male,9897318065,poojasingh653@gmail.com,Delhi,O+,Heart Disease
+P0654,Rahul Chaudhary,53,Male,9180028002,rahulchaudhary654@gmail.com,Varanasi,O+,Hypertension
+P0655,Manish Chaudhary,59,Male,9837139620,manishchaudhary655@gmail.com,Pune,AB+,Heart Disease
+P0656,Arjun Verma,75,Male,9389177507,arjunverma656@gmail.com,Bangalore,B-,Hypertension
+P0657,Arjun Patel,3,Female,9777808721,arjunpatel657@gmail.com,Patna,A-,None
+P0658,Priya Das,72,Male,9586564200,priyadas658@gmail.com,Patna,A-,Hypertension
+P0659,Kavita Chaudhary,78,Female,9705383434,kavitachaudhary659@gmail.com,Patna,A+,Heart Disease
+P0660,Neha Sharma,31,Male,9623365561,nehasharma660@gmail.com,Pune,O+,Diabetes
+P0661,Suresh Yadav,36,Female,9449883130,sureshyadav661@gmail.com,Chennai,AB+,Thyroid
+P0662,Manish Verma,79,Female,9028752564,manishverma662@gmail.com,Varanasi,A-,Hypertension
+P0663,Priya Kumar,72,Female,9284897782,priyakumar663@gmail.com,Delhi,B-,Thyroid
+P0664,Ravi Das,35,Male,9247606617,ravidas664@gmail.com,Varanasi,AB-,Heart Disease
+P0665,Rahul Singh,49,Female,9137415649,rahulsingh665@gmail.com,Pune,A-,Allergy
+P0666,Amit Kumar,51,Female,9436694586,amitkumar666@gmail.com,Bangalore,B+,None
+P0667,Vikas Mishra,43,Female,9172340788,vikasmishra667@gmail.com,Chennai,B-,Thyroid
+P0668,Deepak Das,44,Female,9916407697,deepakdas668@gmail.com,Delhi,B+,Diabetes
+P0669,Suresh Sharma,59,Male,9476627468,sureshsharma669@gmail.com,Delhi,AB-,Allergy
+P0670,Kiran Singh,66,Male,9771905013,kiransingh670@gmail.com,Lucknow,AB-,Thyroid
+P0671,Amit Chaudhary,84,Female,9018190749,amitchaudhary671@gmail.com,Chennai,O+,Allergy
+P0672,Neha Chaudhary,3,Female,9292833987,nehachaudhary672@gmail.com,Varanasi,A+,Heart Disease
+P0673,Amit Verma,76,Male,9516033601,amitverma673@gmail.com,Delhi,B-,Allergy
+P0674,Vikas Patel,35,Female,9695869661,vikaspatel674@gmail.com,Lucknow,A-,Heart Disease
+P0675,Amit Kumar,70,Male,9860667597,amitkumar675@gmail.com,Delhi,O-,None
+P0676,Kiran Gupta,67,Female,9444069472,kirangupta676@gmail.com,Mumbai,AB-,Diabetes
+P0677,Kavita Sharma,38,Male,9092071921,kavitasharma677@gmail.com,Mumbai,AB-,Heart Disease
+P0678,Suresh Gupta,81,Male,9250668132,sureshgupta678@gmail.com,Lucknow,AB+,Thyroid
+P0679,Amit Kumar,57,Female,9847761331,amitkumar679@gmail.com,Lucknow,A-,Diabetes
+P0680,Anjali Chaudhary,23,Female,9131877507,anjalichaudhary680@gmail.com,Lucknow,A-,None
+P0681,Sneha Singh,60,Male,9015915730,snehasingh681@gmail.com,Lucknow,A-,Thyroid
+P0682,Rahul Gupta,57,Male,9857539446,rahulgupta682@gmail.com,Delhi,B-,Asthma
+P0683,Kiran Kumar,39,Male,9410154049,kirankumar683@gmail.com,Bangalore,A+,Allergy
+P0684,Arjun Yadav,56,Male,9164534329,arjunyadav684@gmail.com,Delhi,AB+,None
+P0685,Rahul Singh,25,Female,9996849933,rahulsingh685@gmail.com,Patna,A+,Allergy
+P0686,Sneha Kumar,19,Male,9597983987,snehakumar686@gmail.com,Jaipur,AB-,Diabetes
+P0687,Arjun Mishra,17,Male,9815561045,arjunmishra687@gmail.com,Delhi,AB+,Thyroid
+P0688,Ravi Mishra,41,Male,9651881283,ravimishra688@gmail.com,Chennai,A+,Diabetes
+P0689,Arjun Kumar,5,Male,9196651875,arjunkumar689@gmail.com,Bangalore,O+,Asthma
+P0690,Sneha Chaudhary,3,Female,9797795570,snehachaudhary690@gmail.com,Delhi,AB-,Thyroid
+P0691,Suresh Singh,12,Female,9402208343,sureshsingh691@gmail.com,Lucknow,O-,Hypertension
+P0692,Neha Sharma,71,Male,9938490698,nehasharma692@gmail.com,Jaipur,B+,Thyroid
+P0693,Neha Chaudhary,8,Female,9059105540,nehachaudhary693@gmail.com,Mumbai,O-,Thyroid
+P0694,Vikas Sharma,69,Male,9311420500,vikassharma694@gmail.com,Patna,B-,None
+P0695,Ravi Patel,30,Male,9660383397,ravipatel695@gmail.com,Mumbai,AB-,Thyroid
+P0696,Amit Patel,21,Female,9797834622,amitpatel696@gmail.com,Bangalore,B+,Hypertension
+P0697,Rahul Chaudhary,14,Male,9338158014,rahulchaudhary697@gmail.com,Patna,O+,Allergy
+P0698,Arjun Verma,6,Female,9536175515,arjunverma698@gmail.com,Lucknow,AB-,Diabetes
+P0699,Pooja Gupta,15,Male,9040170434,poojagupta699@gmail.com,Pune,O-,Asthma
+P0700,Sneha Sharma,14,Female,9792630175,snehasharma700@gmail.com,Delhi,A-,Diabetes
+P0701,Manish Das,22,Male,9100841785,manishdas701@gmail.com,Delhi,A+,Allergy
+P0702,Anjali Das,48,Male,9665510081,anjalidas702@gmail.com,Varanasi,B-,Thyroid
+P0703,Priya Patel,68,Female,9000607761,priyapatel703@gmail.com,Chennai,A+,Thyroid
+P0704,Arjun Sharma,26,Male,9467983798,arjunsharma704@gmail.com,Lucknow,B-,Asthma
+P0705,Kavita Gupta,74,Female,9969310085,kavitagupta705@gmail.com,Varanasi,AB-,Asthma
+P0706,Neha Yadav,57,Female,9379011052,nehayadav706@gmail.com,Lucknow,A-,Diabetes
+P0707,Priya Gupta,63,Male,9636299780,priyagupta707@gmail.com,Chennai,A+,Hypertension
+P0708,Sneha Mishra,27,Female,9511674033,snehamishra708@gmail.com,Pune,B-,Allergy
+P0709,Manish Chaudhary,28,Female,9455844913,manishchaudhary709@gmail.com,Patna,B+,Allergy
+P0710,Rahul Singh,61,Female,9073991791,rahulsingh710@gmail.com,Lucknow,A-,Hypertension
+P0711,Kiran Singh,39,Male,9222059117,kiransingh711@gmail.com,Jaipur,AB+,Diabetes
+P0712,Arjun Patel,81,Male,9361268431,arjunpatel712@gmail.com,Chennai,B-,Asthma
+P0713,Kiran Das,1,Male,9348000227,kirandas713@gmail.com,Pune,B+,Heart Disease
+P0714,Anjali Yadav,20,Female,9036791028,anjaliyadav714@gmail.com,Varanasi,O+,Heart Disease
+P0715,Vikas Singh,81,Male,9103807762,vikassingh715@gmail.com,Patna,A+,Heart Disease
+P0716,Rahul Yadav,72,Male,9185505090,rahulyadav716@gmail.com,Lucknow,A-,Diabetes
+P0717,Pooja Kumar,75,Male,9963893809,poojakumar717@gmail.com,Pune,B+,Thyroid
+P0718,Arjun Verma,13,Male,9504728585,arjunverma718@gmail.com,Bangalore,O-,Hypertension
+P0719,Suresh Chaudhary,77,Male,9496750273,sureshchaudhary719@gmail.com,Varanasi,O+,Hypertension
+P0720,Manish Patel,34,Female,9751035188,manishpatel720@gmail.com,Jaipur,O-,None
+P0721,Suresh Verma,6,Male,9247196493,sureshverma721@gmail.com,Mumbai,B+,Heart Disease
+P0722,Kiran Singh,2,Female,9808288040,kiransingh722@gmail.com,Kolkata,O-,Diabetes
+P0723,Kavita Das,84,Male,9893380700,kavitadas723@gmail.com,Jaipur,A+,Heart Disease
+P0724,Pooja Singh,28,Male,9591162209,poojasingh724@gmail.com,Bangalore,AB-,Diabetes
+P0725,Arjun Kumar,76,Male,9895222430,arjunkumar725@gmail.com,Varanasi,O+,Asthma
+P0726,Anjali Das,78,Female,9165081166,anjalidas726@gmail.com,Bangalore,A+,Diabetes
+P0727,Anjali Singh,44,Female,9547351364,anjalisingh727@gmail.com,Lucknow,AB-,Thyroid
+P0728,Vikas Gupta,29,Male,9988422715,vikasgupta728@gmail.com,Varanasi,AB-,None
+P0729,Priya Sharma,50,Male,9371844465,priyasharma729@gmail.com,Chennai,AB+,Thyroid
+P0730,Neha Patel,36,Female,9753905284,nehapatel730@gmail.com,Mumbai,O-,Allergy
+P0731,Neha Chaudhary,34,Male,9468566298,nehachaudhary731@gmail.com,Patna,O+,Heart Disease
+P0732,Kavita Sharma,29,Female,9313763107,kavitasharma732@gmail.com,Chennai,O+,Diabetes
+P0733,Rahul Chaudhary,83,Male,9222426490,rahulchaudhary733@gmail.com,Jaipur,AB-,Allergy
+P0734,Priya Gupta,55,Male,9883292710,priyagupta734@gmail.com,Chennai,O+,Asthma
+P0735,Amit Verma,37,Female,9609346186,amitverma735@gmail.com,Chennai,A-,Diabetes
+P0736,Deepak Singh,30,Male,9618290688,deepaksingh736@gmail.com,Bangalore,AB+,Heart Disease
+P0737,Anjali Singh,85,Male,9781179920,anjalisingh737@gmail.com,Varanasi,B-,Thyroid
+P0738,Amit Singh,22,Male,9787060542,amitsingh738@gmail.com,Chennai,A-,Heart Disease
+P0739,Anjali Yadav,59,Male,9359703405,anjaliyadav739@gmail.com,Mumbai,B-,Heart Disease
+P0740,Kiran Verma,16,Female,9746009386,kiranverma740@gmail.com,Lucknow,A+,Asthma
+P0741,Manish Singh,23,Female,9844979343,manishsingh741@gmail.com,Patna,O+,Thyroid
+P0742,Anjali Patel,43,Female,9314061334,anjalipatel742@gmail.com,Kolkata,A+,Thyroid
+P0743,Arjun Kumar,71,Male,9906900256,arjunkumar743@gmail.com,Lucknow,A+,Heart Disease
+P0744,Priya Gupta,81,Male,9583987185,priyagupta744@gmail.com,Pune,AB+,Asthma
+P0745,Ravi Das,5,Male,9955492611,ravidas745@gmail.com,Mumbai,A-,Hypertension
+P0746,Ravi Gupta,35,Male,9333927721,ravigupta746@gmail.com,Bangalore,A+,Hypertension
+P0747,Rahul Mishra,84,Female,9883664355,rahulmishra747@gmail.com,Chennai,B+,Asthma
+P0748,Suresh Mishra,76,Female,9901977871,sureshmishra748@gmail.com,Bangalore,AB-,Heart Disease
+P0749,Rahul Verma,69,Female,9791346619,rahulverma749@gmail.com,Varanasi,B+,None
+P0750,Arjun Gupta,42,Female,9511479844,arjungupta750@gmail.com,Chennai,AB-,Hypertension
+P0751,Kiran Gupta,41,Male,9516126243,kirangupta751@gmail.com,Chennai,B-,Diabetes
+P0752,Sneha Sharma,58,Female,9259166023,snehasharma752@gmail.com,Jaipur,AB+,None
+P0753,Kiran Das,38,Female,9432399024,kirandas753@gmail.com,Delhi,B+,Diabetes
+P0754,Sneha Kumar,29,Female,9476783609,snehakumar754@gmail.com,Delhi,A-,Asthma
+P0755,Deepak Yadav,85,Male,9733351845,deepakyadav755@gmail.com,Jaipur,AB+,Allergy
+P0756,Priya Mishra,40,Male,9463073986,priyamishra756@gmail.com,Jaipur,B+,Diabetes
+P0757,Arjun Chaudhary,24,Female,9112517186,arjunchaudhary757@gmail.com,Jaipur,O-,Asthma
+P0758,Rahul Verma,26,Male,9055117875,rahulverma758@gmail.com,Lucknow,AB-,Allergy
+P0759,Rahul Chaudhary,76,Female,9574641184,rahulchaudhary759@gmail.com,Pune,A+,Diabetes
+P0760,Neha Singh,76,Male,9786076730,nehasingh760@gmail.com,Chennai,AB+,Diabetes
+P0761,Priya Gupta,68,Female,9666810168,priyagupta761@gmail.com,Delhi,B+,Hypertension
+P0762,Deepak Verma,77,Male,9581123887,deepakverma762@gmail.com,Pune,O+,Heart Disease
+P0763,Kiran Yadav,26,Male,9565868465,kiranyadav763@gmail.com,Kolkata,A-,Hypertension
+P0764,Arjun Patel,53,Female,9086427215,arjunpatel764@gmail.com,Jaipur,O+,Asthma
+P0765,Arjun Patel,1,Male,9203889848,arjunpatel765@gmail.com,Chennai,B+,Heart Disease
+P0766,Anjali Sharma,47,Female,9749294956,anjalisharma766@gmail.com,Patna,B-,Asthma
+P0767,Manish Gupta,14,Male,9678923017,manishgupta767@gmail.com,Kolkata,A-,None
+P0768,Neha Das,16,Male,9026621488,nehadas768@gmail.com,Patna,O+,None
+P0769,Rahul Sharma,13,Male,9496840460,rahulsharma769@gmail.com,Mumbai,O-,Hypertension
+P0770,Kavita Gupta,84,Female,9284209669,kavitagupta770@gmail.com,Patna,O-,None
+P0771,Sneha Mishra,14,Female,9153938875,snehamishra771@gmail.com,Delhi,B-,Heart Disease
+P0772,Arjun Sharma,79,Male,9206505037,arjunsharma772@gmail.com,Varanasi,O-,Allergy
+P0773,Arjun Patel,14,Male,9174603348,arjunpatel773@gmail.com,Delhi,B+,Hypertension
+P0774,Pooja Yadav,32,Female,9922103515,poojayadav774@gmail.com,Delhi,A-,Thyroid
+P0775,Vikas Singh,4,Female,9913822863,vikassingh775@gmail.com,Patna,AB-,Thyroid
+P0776,Deepak Kumar,17,Female,9825969575,deepakkumar776@gmail.com,Varanasi,B-,Thyroid
+P0777,Manish Kumar,38,Male,9112598130,manishkumar777@gmail.com,Jaipur,A+,Asthma
+P0778,Arjun Chaudhary,43,Female,9451156164,arjunchaudhary778@gmail.com,Jaipur,A-,None
+P0779,Neha Mishra,6,Male,9143737340,nehamishra779@gmail.com,Patna,O-,None
+P0780,Pooja Mishra,18,Male,9215719763,poojamishra780@gmail.com,Kolkata,O-,Hypertension
+P0781,Anjali Gupta,30,Male,9771589284,anjaligupta781@gmail.com,Varanasi,A+,None
+P0782,Kavita Mishra,2,Male,9958733593,kavitamishra782@gmail.com,Kolkata,B+,Thyroid
+P0783,Suresh Kumar,10,Female,9362972021,sureshkumar783@gmail.com,Kolkata,B+,Thyroid
+P0784,Arjun Singh,27,Female,9170880432,arjunsingh784@gmail.com,Pune,AB+,Thyroid
+P0785,Pooja Singh,71,Female,9792031453,poojasingh785@gmail.com,Varanasi,B-,Thyroid
+P0786,Anjali Sharma,29,Female,9843653853,anjalisharma786@gmail.com,Bangalore,O-,Hypertension
+P0787,Arjun Patel,30,Female,9295396218,arjunpatel787@gmail.com,Delhi,A+,Asthma
+P0788,Anjali Chaudhary,81,Male,9108815134,anjalichaudhary788@gmail.com,Patna,A+,Heart Disease
+P0789,Pooja Mishra,56,Male,9456643785,poojamishra789@gmail.com,Varanasi,AB-,Asthma
+P0790,Rahul Chaudhary,7,Female,9717319741,rahulchaudhary790@gmail.com,Lucknow,O-,None
+P0791,Suresh Mishra,6,Female,9745750743,sureshmishra791@gmail.com,Varanasi,B+,Asthma
+P0792,Kavita Mishra,61,Female,9564325413,kavitamishra792@gmail.com,Lucknow,AB+,Heart Disease
+P0793,Priya Gupta,20,Female,9850259051,priyagupta793@gmail.com,Patna,B+,Diabetes
+P0794,Priya Mishra,30,Male,9017400159,priyamishra794@gmail.com,Delhi,B-,Asthma
+P0795,Anjali Kumar,49,Male,9814346786,anjalikumar795@gmail.com,Lucknow,O+,Thyroid
+P0796,Rahul Yadav,68,Female,9647796678,rahulyadav796@gmail.com,Patna,O-,Asthma
+P0797,Suresh Das,48,Male,9710649600,sureshdas797@gmail.com,Varanasi,B+,Asthma
+P0798,Rahul Kumar,21,Male,9670933717,rahulkumar798@gmail.com,Varanasi,O-,Asthma
+P0799,Manish Patel,8,Female,9531830785,manishpatel799@gmail.com,Chennai,B-,Heart Disease
+P0800,Suresh Yadav,71,Female,9239254355,sureshyadav800@gmail.com,Lucknow,A-,Asthma
+P0801,Sneha Chaudhary,20,Male,9235141197,snehachaudhary801@gmail.com,Chennai,A-,Thyroid
+P0802,Neha Sharma,69,Male,9678748529,nehasharma802@gmail.com,Varanasi,O-,Diabetes
+P0803,Amit Yadav,81,Male,9008188353,amityadav803@gmail.com,Kolkata,B-,None
+P0804,Manish Gupta,54,Female,9214650742,manishgupta804@gmail.com,Mumbai,B+,Diabetes
+P0805,Kiran Sharma,2,Female,9081127566,kiransharma805@gmail.com,Mumbai,O-,Asthma
+P0806,Manish Yadav,69,Female,9389952887,manishyadav806@gmail.com,Mumbai,A-,Hypertension
+P0807,Sneha Yadav,44,Male,9213566666,snehayadav807@gmail.com,Chennai,AB+,Diabetes
+P0808,Pooja Mishra,69,Male,9310903386,poojamishra808@gmail.com,Kolkata,O-,Asthma
+P0809,Sneha Gupta,42,Female,9359949452,snehagupta809@gmail.com,Jaipur,B-,Allergy
+P0810,Kiran Das,23,Female,9977439951,kirandas810@gmail.com,Delhi,O+,Thyroid
+P0811,Rahul Yadav,29,Male,9089274299,rahulyadav811@gmail.com,Delhi,AB-,Diabetes
+P0812,Anjali Sharma,74,Male,9598542266,anjalisharma812@gmail.com,Kolkata,AB+,Hypertension
+P0813,Ravi Das,60,Female,9081219590,ravidas813@gmail.com,Pune,B+,Allergy
+P0814,Neha Patel,66,Female,9865084909,nehapatel814@gmail.com,Kolkata,B-,Diabetes
+P0815,Ravi Das,17,Female,9492893520,ravidas815@gmail.com,Kolkata,O-,Heart Disease
+P0816,Ravi Das,38,Female,9287002514,ravidas816@gmail.com,Varanasi,A+,Thyroid
+P0817,Kavita Patel,57,Female,9770897375,kavitapatel817@gmail.com,Delhi,AB+,Diabetes
+P0818,Amit Singh,36,Male,9883806297,amitsingh818@gmail.com,Patna,A-,Thyroid
+P0819,Kiran Yadav,71,Male,9506972979,kiranyadav819@gmail.com,Mumbai,AB+,None
+P0820,Pooja Singh,69,Male,9454161824,poojasingh820@gmail.com,Pune,B+,Thyroid
+P0821,Suresh Das,8,Male,9056154569,sureshdas821@gmail.com,Lucknow,B-,Asthma
+P0822,Amit Yadav,65,Male,9519016136,amityadav822@gmail.com,Pune,AB+,Allergy
+P0823,Deepak Mishra,5,Male,9456644329,deepakmishra823@gmail.com,Lucknow,B+,Hypertension
+P0824,Neha Yadav,80,Female,9925785408,nehayadav824@gmail.com,Varanasi,A+,Hypertension
+P0825,Neha Singh,39,Female,9307532549,nehasingh825@gmail.com,Chennai,O+,Thyroid
+P0826,Kiran Gupta,35,Female,9789137724,kirangupta826@gmail.com,Bangalore,O-,None
+P0827,Sneha Gupta,20,Female,9668280626,snehagupta827@gmail.com,Varanasi,AB-,Hypertension
+P0828,Ravi Singh,62,Female,9954211828,ravisingh828@gmail.com,Chennai,AB-,Diabetes
+P0829,Manish Das,6,Male,9782879775,manishdas829@gmail.com,Mumbai,O-,None
+P0830,Pooja Mishra,70,Female,9028107560,poojamishra830@gmail.com,Mumbai,AB-,Heart Disease
+P0831,Ravi Sharma,70,Male,9432662161,ravisharma831@gmail.com,Chennai,B-,Hypertension
+P0832,Sneha Gupta,33,Female,9631206153,snehagupta832@gmail.com,Pune,O-,Thyroid
+P0833,Manish Sharma,71,Female,9563348752,manishsharma833@gmail.com,Lucknow,AB+,Thyroid
+P0834,Vikas Gupta,39,Male,9720935739,vikasgupta834@gmail.com,Chennai,A+,Thyroid
+P0835,Kavita Mishra,66,Male,9384896277,kavitamishra835@gmail.com,Mumbai,AB-,Asthma
+P0836,Amit Mishra,40,Female,9972518836,amitmishra836@gmail.com,Patna,O-,Allergy
+P0837,Manish Gupta,65,Female,9723154471,manishgupta837@gmail.com,Delhi,O+,Diabetes
+P0838,Arjun Chaudhary,77,Male,9433777262,arjunchaudhary838@gmail.com,Jaipur,O-,Heart Disease
+P0839,Kiran Yadav,73,Male,9905636788,kiranyadav839@gmail.com,Varanasi,A+,Allergy
+P0840,Priya Patel,61,Female,9201781737,priyapatel840@gmail.com,Chennai,A-,Allergy
+P0841,Rahul Sharma,28,Male,9820049864,rahulsharma841@gmail.com,Kolkata,B+,Thyroid
+P0842,Pooja Chaudhary,50,Male,9847372763,poojachaudhary842@gmail.com,Pune,A-,Thyroid
+P0843,Sneha Mishra,68,Male,9523123949,snehamishra843@gmail.com,Kolkata,AB-,Diabetes
+P0844,Rahul Das,62,Male,9199965704,rahuldas844@gmail.com,Pune,O-,Asthma
+P0845,Anjali Patel,78,Female,9370341392,anjalipatel845@gmail.com,Pune,A-,Hypertension
+P0846,Manish Gupta,5,Female,9802110629,manishgupta846@gmail.com,Kolkata,A+,Allergy
+P0847,Kiran Sharma,33,Male,9864979795,kiransharma847@gmail.com,Chennai,B+,Heart Disease
+P0848,Anjali Patel,53,Female,9691009689,anjalipatel848@gmail.com,Mumbai,B-,Thyroid
+P0849,Anjali Singh,1,Male,9931820917,anjalisingh849@gmail.com,Mumbai,A+,Allergy
+P0850,Arjun Yadav,59,Female,9424749051,arjunyadav850@gmail.com,Mumbai,A-,None
+P0851,Arjun Verma,73,Male,9005913063,arjunverma851@gmail.com,Kolkata,A+,None
+P0852,Arjun Verma,84,Female,9969995870,arjunverma852@gmail.com,Delhi,AB-,Allergy
+P0853,Ravi Das,64,Female,9577828093,ravidas853@gmail.com,Chennai,B-,None
+P0854,Sneha Sharma,29,Male,9700314181,snehasharma854@gmail.com,Varanasi,A-,Hypertension
+P0855,Vikas Mishra,64,Female,9530306479,vikasmishra855@gmail.com,Delhi,B+,Diabetes
+P0856,Arjun Chaudhary,22,Female,9143445522,arjunchaudhary856@gmail.com,Patna,B+,Diabetes
+P0857,Ravi Mishra,52,Female,9110655449,ravimishra857@gmail.com,Mumbai,O+,Allergy
+P0858,Arjun Verma,14,Male,9224697137,arjunverma858@gmail.com,Mumbai,AB+,Diabetes
+P0859,Suresh Patel,52,Female,9671859694,sureshpatel859@gmail.com,Kolkata,A-,Heart Disease
+P0860,Pooja Patel,26,Female,9249887925,poojapatel860@gmail.com,Delhi,O+,Diabetes
+P0861,Anjali Verma,65,Female,9198632792,anjaliverma861@gmail.com,Mumbai,A-,None
+P0862,Priya Verma,1,Male,9120939956,priyaverma862@gmail.com,Patna,B-,Diabetes
+P0863,Ravi Mishra,12,Male,9389829699,ravimishra863@gmail.com,Lucknow,AB+,None
+P0864,Suresh Chaudhary,76,Female,9930037250,sureshchaudhary864@gmail.com,Pune,O+,Thyroid
+P0865,Pooja Chaudhary,44,Male,9943299860,poojachaudhary865@gmail.com,Varanasi,O+,Diabetes
+P0866,Neha Sharma,73,Female,9534233927,nehasharma866@gmail.com,Pune,O-,Diabetes
+P0867,Pooja Yadav,64,Male,9537422325,poojayadav867@gmail.com,Kolkata,B-,Hypertension
+P0868,Manish Patel,4,Female,9790830689,manishpatel868@gmail.com,Kolkata,O+,Thyroid
+P0869,Suresh Das,8,Male,9078072354,sureshdas869@gmail.com,Patna,AB+,Diabetes
+P0870,Sneha Gupta,2,Male,9575421593,snehagupta870@gmail.com,Jaipur,O+,Allergy
+P0871,Priya Singh,74,Female,9128659637,priyasingh871@gmail.com,Delhi,AB+,Heart Disease
+P0872,Pooja Sharma,40,Female,9654984182,poojasharma872@gmail.com,Bangalore,B-,None
+P0873,Priya Mishra,8,Female,9860477085,priyamishra873@gmail.com,Pune,AB+,None
+P0874,Amit Verma,38,Male,9677093416,amitverma874@gmail.com,Jaipur,O+,None
+P0875,Kiran Patel,53,Female,9591344270,kiranpatel875@gmail.com,Patna,B-,Diabetes
+P0876,Arjun Gupta,24,Male,9027224298,arjungupta876@gmail.com,Patna,AB+,Heart Disease
+P0877,Vikas Verma,67,Male,9040124564,vikasverma877@gmail.com,Pune,AB-,Asthma
+P0878,Sneha Verma,27,Male,9311139534,snehaverma878@gmail.com,Bangalore,B-,Heart Disease
+P0879,Anjali Verma,70,Female,9678244881,anjaliverma879@gmail.com,Kolkata,B-,Asthma
+P0880,Anjali Singh,53,Male,9792384250,anjalisingh880@gmail.com,Delhi,O-,Thyroid
+P0881,Ravi Das,33,Female,9100263851,ravidas881@gmail.com,Patna,A+,Thyroid
+P0882,Arjun Chaudhary,72,Female,9554914414,arjunchaudhary882@gmail.com,Jaipur,AB-,Asthma
+P0883,Neha Kumar,68,Female,9667974443,nehakumar883@gmail.com,Varanasi,O+,Diabetes
+P0884,Anjali Gupta,40,Female,9801333914,anjaligupta884@gmail.com,Mumbai,AB+,Asthma
+P0885,Kavita Chaudhary,24,Female,9441885967,kavitachaudhary885@gmail.com,Kolkata,A+,None
+P0886,Pooja Kumar,19,Female,9143336830,poojakumar886@gmail.com,Lucknow,O-,Thyroid
+P0887,Pooja Singh,68,Female,9108901077,poojasingh887@gmail.com,Lucknow,B-,Asthma
+P0888,Sneha Mishra,3,Female,9757339289,snehamishra888@gmail.com,Delhi,AB+,Asthma
+P0889,Priya Gupta,15,Female,9446317386,priyagupta889@gmail.com,Bangalore,A-,Thyroid
+P0890,Pooja Yadav,79,Male,9151144025,poojayadav890@gmail.com,Lucknow,O+,Thyroid
+P0891,Ravi Chaudhary,37,Male,9226364760,ravichaudhary891@gmail.com,Patna,A+,Hypertension
+P0892,Neha Sharma,82,Male,9146853835,nehasharma892@gmail.com,Varanasi,B+,None
+P0893,Manish Chaudhary,41,Male,9814363929,manishchaudhary893@gmail.com,Delhi,A+,Diabetes
+P0894,Suresh Verma,79,Male,9431328708,sureshverma894@gmail.com,Mumbai,A-,Diabetes
+P0895,Ravi Gupta,55,Male,9227139842,ravigupta895@gmail.com,Patna,B-,Thyroid
+P0896,Kiran Mishra,11,Female,9372506972,kiranmishra896@gmail.com,Pune,B-,Diabetes
+P0897,Anjali Patel,3,Female,9007255974,anjalipatel897@gmail.com,Delhi,B+,Diabetes
+P0898,Suresh Mishra,16,Male,9102776339,sureshmishra898@gmail.com,Delhi,O+,Diabetes
+P0899,Deepak Kumar,4,Male,9331705080,deepakkumar899@gmail.com,Patna,A-,Thyroid
+P0900,Kiran Singh,34,Female,9941922596,kiransingh900@gmail.com,Mumbai,O+,None
+P0901,Ravi Yadav,3,Female,9445303869,raviyadav901@gmail.com,Patna,O+,Allergy
+P0902,Amit Das,31,Female,9389942598,amitdas902@gmail.com,Delhi,O+,Thyroid
+P0903,Deepak Kumar,76,Male,9546613715,deepakkumar903@gmail.com,Jaipur,A+,Hypertension
+P0904,Sneha Chaudhary,51,Female,9354711905,snehachaudhary904@gmail.com,Mumbai,O-,Hypertension
+P0905,Deepak Yadav,9,Male,9196289986,deepakyadav905@gmail.com,Chennai,O+,Hypertension
+P0906,Neha Verma,77,Female,9995169030,nehaverma906@gmail.com,Kolkata,B+,Asthma
+P0907,Arjun Mishra,76,Female,9860393201,arjunmishra907@gmail.com,Pune,A+,None
+P0908,Priya Kumar,35,Male,9374594171,priyakumar908@gmail.com,Patna,AB+,Heart Disease
+P0909,Manish Kumar,1,Male,9894378420,manishkumar909@gmail.com,Delhi,AB+,None
+P0910,Manish Das,8,Male,9334580538,manishdas910@gmail.com,Jaipur,AB+,Asthma
+P0911,Sneha Sharma,69,Male,9792045317,snehasharma911@gmail.com,Delhi,AB+,Asthma
+P0912,Priya Das,36,Male,9001179624,priyadas912@gmail.com,Patna,O+,Asthma
+P0913,Kavita Kumar,57,Male,9771699928,kavitakumar913@gmail.com,Lucknow,B+,Diabetes
+P0914,Suresh Yadav,15,Male,9593746705,sureshyadav914@gmail.com,Kolkata,O-,Allergy
+P0915,Kavita Chaudhary,6,Female,9164651908,kavitachaudhary915@gmail.com,Mumbai,O+,Asthma
+P0916,Priya Chaudhary,39,Female,9597403322,priyachaudhary916@gmail.com,Lucknow,O-,None
+P0917,Neha Singh,60,Male,9925620712,nehasingh917@gmail.com,Patna,AB+,Heart Disease
+P0918,Priya Kumar,27,Male,9437486763,priyakumar918@gmail.com,Delhi,B-,None
+P0919,Kiran Sharma,24,Female,9691990382,kiransharma919@gmail.com,Delhi,O+,Allergy
+P0920,Priya Chaudhary,14,Female,9324192550,priyachaudhary920@gmail.com,Lucknow,O+,Asthma
+P0921,Vikas Chaudhary,11,Male,9382395055,vikaschaudhary921@gmail.com,Varanasi,B-,Thyroid
+P0922,Kiran Verma,12,Female,9713023092,kiranverma922@gmail.com,Chennai,B+,Allergy
+P0923,Suresh Verma,18,Male,9442047828,sureshverma923@gmail.com,Jaipur,O+,Hypertension
+P0924,Deepak Verma,32,Female,9772909113,deepakverma924@gmail.com,Pune,O-,Hypertension
+P0925,Manish Verma,33,Male,9176805590,manishverma925@gmail.com,Pune,O+,Hypertension
+P0926,Manish Chaudhary,60,Female,9578666271,manishchaudhary926@gmail.com,Bangalore,A+,None
+P0927,Ravi Chaudhary,37,Male,9459032919,ravichaudhary927@gmail.com,Pune,A-,Diabetes
+P0928,Pooja Gupta,5,Female,9967605644,poojagupta928@gmail.com,Delhi,O-,Thyroid
+P0929,Pooja Patel,3,Female,9354906945,poojapatel929@gmail.com,Delhi,A-,Heart Disease
+P0930,Suresh Singh,24,Female,9599369560,sureshsingh930@gmail.com,Delhi,AB+,Thyroid
+P0931,Manish Kumar,32,Male,9788937791,manishkumar931@gmail.com,Delhi,A-,Allergy
+P0932,Amit Singh,43,Female,9098257828,amitsingh932@gmail.com,Delhi,A+,Asthma
+P0933,Kiran Gupta,19,Female,9747027227,kirangupta933@gmail.com,Bangalore,AB+,Allergy
+P0934,Pooja Gupta,75,Male,9796720132,poojagupta934@gmail.com,Jaipur,O-,None
+P0935,Arjun Singh,1,Female,9330455490,arjunsingh935@gmail.com,Varanasi,O+,Asthma
+P0936,Anjali Verma,21,Female,9905458006,anjaliverma936@gmail.com,Varanasi,A-,Allergy
+P0937,Manish Singh,80,Male,9735367649,manishsingh937@gmail.com,Kolkata,O+,Asthma
+P0938,Suresh Verma,75,Male,9381706315,sureshverma938@gmail.com,Chennai,B+,Allergy
+P0939,Rahul Kumar,14,Female,9512802589,rahulkumar939@gmail.com,Bangalore,O-,Allergy
+P0940,Priya Patel,70,Female,9390347539,priyapatel940@gmail.com,Mumbai,B+,Allergy
+P0941,Amit Singh,5,Male,9974568759,amitsingh941@gmail.com,Patna,A-,Diabetes
+P0942,Manish Chaudhary,51,Male,9429540921,manishchaudhary942@gmail.com,Jaipur,A-,Allergy
+P0943,Anjali Yadav,15,Female,9150709223,anjaliyadav943@gmail.com,Pune,O+,Allergy
+P0944,Suresh Yadav,50,Female,9387581352,sureshyadav944@gmail.com,Delhi,B-,Thyroid
+P0945,Manish Das,68,Female,9453328837,manishdas945@gmail.com,Delhi,A-,Diabetes
+P0946,Deepak Patel,78,Male,9690475453,deepakpatel946@gmail.com,Mumbai,B-,Diabetes
+P0947,Rahul Chaudhary,72,Female,9407832354,rahulchaudhary947@gmail.com,Varanasi,AB+,Asthma
+P0948,Rahul Singh,53,Female,9401869502,rahulsingh948@gmail.com,Patna,A-,Asthma
+P0949,Manish Mishra,15,Female,9800323404,manishmishra949@gmail.com,Bangalore,B+,Asthma
+P0950,Neha Yadav,76,Female,9635569559,nehayadav950@gmail.com,Patna,O+,Thyroid
+P0951,Suresh Yadav,60,Male,9012989622,sureshyadav951@gmail.com,Kolkata,A-,Thyroid
+P0952,Neha Kumar,20,Male,9135684834,nehakumar952@gmail.com,Chennai,AB+,Hypertension
+P0953,Kavita Patel,84,Male,9689013480,kavitapatel953@gmail.com,Varanasi,O+,Hypertension
+P0954,Ravi Verma,27,Female,9743807421,raviverma954@gmail.com,Mumbai,B-,Asthma
+P0955,Arjun Chaudhary,39,Male,9702568497,arjunchaudhary955@gmail.com,Lucknow,O-,None
+P0956,Kiran Gupta,42,Female,9495845843,kirangupta956@gmail.com,Delhi,A-,None
+P0957,Priya Verma,1,Male,9892213162,priyaverma957@gmail.com,Patna,B-,Heart Disease
+P0958,Sneha Das,44,Female,9669610417,snehadas958@gmail.com,Kolkata,A+,None
+P0959,Rahul Verma,68,Male,9870883954,rahulverma959@gmail.com,Patna,B-,Diabetes
+P0960,Suresh Sharma,73,Female,9648385936,sureshsharma960@gmail.com,Chennai,O+,None
+P0961,Arjun Singh,75,Male,9139686922,arjunsingh961@gmail.com,Bangalore,B-,Allergy
+P0962,Rahul Gupta,45,Male,9729035139,rahulgupta962@gmail.com,Bangalore,B-,None
+P0963,Sneha Sharma,15,Male,9752066768,snehasharma963@gmail.com,Lucknow,B-,Thyroid
+P0964,Anjali Yadav,19,Male,9278269169,anjaliyadav964@gmail.com,Bangalore,A-,Thyroid
+P0965,Anjali Verma,27,Female,9924407038,anjaliverma965@gmail.com,Patna,B+,Heart Disease
+P0966,Amit Patel,25,Male,9680622083,amitpatel966@gmail.com,Lucknow,B+,None
+P0967,Suresh Das,34,Male,9105517344,sureshdas967@gmail.com,Varanasi,AB-,Thyroid
+P0968,Pooja Mishra,52,Male,9933054110,poojamishra968@gmail.com,Mumbai,A-,Thyroid
+P0969,Kavita Chaudhary,12,Male,9440841365,kavitachaudhary969@gmail.com,Bangalore,O+,Diabetes
+P0970,Sneha Yadav,32,Male,9804602488,snehayadav970@gmail.com,Varanasi,A+,None
+P0971,Manish Das,43,Male,9719378494,manishdas971@gmail.com,Kolkata,AB-,Allergy
+P0972,Manish Kumar,83,Female,9059879873,manishkumar972@gmail.com,Delhi,B-,None
+P0973,Vikas Mishra,82,Male,9791147857,vikasmishra973@gmail.com,Mumbai,A-,Thyroid
+P0974,Manish Verma,2,Female,9185551343,manishverma974@gmail.com,Kolkata,A-,Thyroid
+P0975,Vikas Verma,38,Male,9021289650,vikasverma975@gmail.com,Lucknow,A+,Allergy
+P0976,Vikas Yadav,31,Female,9324475596,vikasyadav976@gmail.com,Pune,AB-,Hypertension
+P0977,Sneha Kumar,47,Male,9841291517,snehakumar977@gmail.com,Bangalore,AB+,Allergy
+P0978,Manish Kumar,68,Female,9205062614,manishkumar978@gmail.com,Lucknow,B+,None
+P0979,Kiran Sharma,56,Female,9529339796,kiransharma979@gmail.com,Delhi,AB+,Diabetes
+P0980,Arjun Das,36,Male,9744104990,arjundas980@gmail.com,Kolkata,O-,Heart Disease
+P0981,Anjali Sharma,31,Female,9253749278,anjalisharma981@gmail.com,Jaipur,B+,Asthma
+P0982,Manish Patel,42,Male,9314853280,manishpatel982@gmail.com,Bangalore,B+,Thyroid
+P0983,Ravi Das,82,Female,9569201174,ravidas983@gmail.com,Patna,AB+,Thyroid
+P0984,Deepak Kumar,30,Male,9688278567,deepakkumar984@gmail.com,Patna,AB+,Heart Disease
+P0985,Suresh Mishra,56,Male,9973985508,sureshmishra985@gmail.com,Varanasi,AB+,None
+P0986,Anjali Kumar,1,Male,9970675217,anjalikumar986@gmail.com,Chennai,A+,Hypertension
+P0987,Priya Singh,38,Female,9950410573,priyasingh987@gmail.com,Varanasi,O-,Allergy
+P0988,Amit Das,67,Female,9291606707,amitdas988@gmail.com,Varanasi,B-,Thyroid
+P0989,Neha Chaudhary,28,Female,9877636756,nehachaudhary989@gmail.com,Varanasi,A+,Asthma
+P0990,Suresh Chaudhary,40,Male,9211396465,sureshchaudhary990@gmail.com,Delhi,B-,Thyroid
+P0991,Arjun Das,31,Female,9276949458,arjundas991@gmail.com,Delhi,A-,Hypertension
+P0992,Suresh Singh,38,Male,9405192385,sureshsingh992@gmail.com,Pune,AB-,Heart Disease
+P0993,Arjun Sharma,75,Female,9956046439,arjunsharma993@gmail.com,Varanasi,B-,Hypertension
+P0994,Neha Kumar,22,Male,9908103848,nehakumar994@gmail.com,Delhi,A+,Allergy
+P0995,Kiran Das,58,Female,9861654812,kirandas995@gmail.com,Varanasi,O+,Thyroid
+P0996,Sneha Gupta,3,Female,9652558973,snehagupta996@gmail.com,Chennai,AB-,Hypertension
+P0997,Rahul Gupta,57,Female,9637648470,rahulgupta997@gmail.com,Jaipur,O-,Asthma
+P0998,Priya Singh,11,Female,9594530580,priyasingh998@gmail.com,Jaipur,AB-,None
+P0999,Pooja Patel,64,Male,9968147935,poojapatel999@gmail.com,Varanasi,B+,Allergy
+P1000,Neha Das,40,Female,9481605087,nehadas1000@gmail.com,Jaipur,A+,Hypertension
+P1001,Kavita Patel,78,Female,9590192283,kavitapatel1001@gmail.com,Mumbai,B-,Diabetes
+P1002,Deepak Mishra,57,Female,9748654568,deepakmishra1002@gmail.com,Pune,O-,None
+P1003,Pooja Das,82,Female,9817892071,poojadas1003@gmail.com,Varanasi,O-,Hypertension
+P1004,Suresh Chaudhary,20,Female,9569283614,sureshchaudhary1004@gmail.com,Varanasi,B+,Allergy
+P1005,Ravi Sharma,23,Male,9516299841,ravisharma1005@gmail.com,Lucknow,A-,Heart Disease
+P1006,Amit Das,56,Female,9573721774,amitdas1006@gmail.com,Varanasi,O+,Hypertension
+P1007,Ravi Sharma,15,Male,9871624912,ravisharma1007@gmail.com,Kolkata,AB-,Diabetes
+P1008,Kiran Gupta,22,Male,9325438270,kirangupta1008@gmail.com,Chennai,B-,Heart Disease
+P1009,Manish Das,36,Female,9956374933,manishdas1009@gmail.com,Kolkata,A+,Diabetes
+P1010,Vikas Kumar,75,Male,9557848385,vikaskumar1010@gmail.com,Jaipur,O+,None
+P1011,Suresh Verma,44,Male,9025011368,sureshverma1011@gmail.com,Kolkata,A-,Thyroid
+P1012,Rahul Yadav,79,Female,9285967307,rahulyadav1012@gmail.com,Varanasi,B+,Hypertension
+P1013,Arjun Verma,59,Female,9003590205,arjunverma1013@gmail.com,Delhi,AB+,Asthma
+P1014,Anjali Kumar,40,Female,9337329002,anjalikumar1014@gmail.com,Chennai,AB-,None
+P1015,Deepak Sharma,82,Male,9588226236,deepaksharma1015@gmail.com,Lucknow,B-,Asthma
+P1016,Priya Sharma,66,Male,9068988851,priyasharma1016@gmail.com,Pune,B+,Hypertension
+P1017,Kavita Das,27,Male,9333937903,kavitadas1017@gmail.com,Mumbai,B+,Asthma
+P1018,Deepak Chaudhary,67,Male,9087520691,deepakchaudhary1018@gmail.com,Jaipur,A-,Heart Disease
+P1019,Amit Das,59,Male,9361311039,amitdas1019@gmail.com,Delhi,A+,Heart Disease
+P1020,Rahul Patel,79,Male,9208336241,rahulpatel1020@gmail.com,Varanasi,A-,Allergy
+P1021,Kavita Mishra,14,Male,9101593339,kavitamishra1021@gmail.com,Varanasi,B-,Thyroid
+P1022,Kiran Singh,40,Male,9935169013,kiransingh1022@gmail.com,Mumbai,O-,Heart Disease
+P1023,Ravi Patel,68,Female,9109856322,ravipatel1023@gmail.com,Varanasi,B-,Asthma
+P1024,Anjali Verma,75,Female,9614449821,anjaliverma1024@gmail.com,Pune,O+,Allergy
+P1025,Manish Kumar,7,Female,9264525598,manishkumar1025@gmail.com,Patna,B-,Thyroid
+P1026,Suresh Patel,36,Female,9441992330,sureshpatel1026@gmail.com,Varanasi,A-,None
+P1027,Kavita Mishra,22,Male,9887253442,kavitamishra1027@gmail.com,Delhi,A+,Thyroid
+P1028,Arjun Yadav,59,Female,9710150261,arjunyadav1028@gmail.com,Bangalore,B-,Asthma
+P1029,Ravi Das,65,Female,9177633143,ravidas1029@gmail.com,Delhi,O-,Diabetes
+P1030,Arjun Verma,66,Female,9539813770,arjunverma1030@gmail.com,Pune,O+,Hypertension
+P1031,Kiran Yadav,38,Male,9512110277,kiranyadav1031@gmail.com,Chennai,O-,Hypertension
+P1032,Deepak Das,69,Female,9322708777,deepakdas1032@gmail.com,Kolkata,O-,Thyroid
+P1033,Suresh Yadav,15,Male,9257855510,sureshyadav1033@gmail.com,Mumbai,O+,Hypertension
+P1034,Deepak Verma,5,Female,9148649152,deepakverma1034@gmail.com,Bangalore,AB-,None
+P1035,Vikas Sharma,62,Female,9409828673,vikassharma1035@gmail.com,Bangalore,AB-,Asthma
+P1036,Pooja Sharma,28,Female,9928624325,poojasharma1036@gmail.com,Varanasi,A-,Allergy
+P1037,Anjali Sharma,30,Female,9283533914,anjalisharma1037@gmail.com,Jaipur,A+,Diabetes
+P1038,Sneha Sharma,34,Female,9034987848,snehasharma1038@gmail.com,Jaipur,AB-,Hypertension
+P1039,Amit Sharma,68,Female,9674590018,amitsharma1039@gmail.com,Delhi,O-,Heart Disease
+P1040,Priya Gupta,1,Male,9243948491,priyagupta1040@gmail.com,Patna,B+,Hypertension
+P1041,Kiran Yadav,68,Female,9187174355,kiranyadav1041@gmail.com,Delhi,O-,Thyroid
+P1042,Kiran Chaudhary,7,Female,9838771079,kiranchaudhary1042@gmail.com,Bangalore,A-,Hypertension
+P1043,Amit Chaudhary,72,Male,9144892046,amitchaudhary1043@gmail.com,Mumbai,B+,Heart Disease
+P1044,Ravi Yadav,69,Male,9105879956,raviyadav1044@gmail.com,Lucknow,AB+,Diabetes
+P1045,Ravi Sharma,63,Male,9052530529,ravisharma1045@gmail.com,Bangalore,B-,Asthma
+P1046,Pooja Kumar,2,Female,9684884861,poojakumar1046@gmail.com,Bangalore,A+,None
+P1047,Anjali Das,28,Female,9821791101,anjalidas1047@gmail.com,Jaipur,A-,Asthma
+P1048,Priya Patel,1,Female,9299198591,priyapatel1048@gmail.com,Jaipur,O+,Hypertension
+P1049,Priya Verma,76,Male,9151288683,priyaverma1049@gmail.com,Chennai,A-,Hypertension
+P1050,Manish Verma,2,Male,9942374660,manishverma1050@gmail.com,Mumbai,A-,Allergy
+P1051,Deepak Das,43,Male,9178447717,deepakdas1051@gmail.com,Mumbai,B+,Allergy
+P1052,Kavita Singh,9,Female,9854733300,kavitasingh1052@gmail.com,Pune,AB-,Hypertension
+P1053,Kavita Yadav,61,Male,9896818645,kavitayadav1053@gmail.com,Lucknow,AB+,None
+P1054,Rahul Singh,18,Male,9605406222,rahulsingh1054@gmail.com,Bangalore,A-,Thyroid
+P1055,Anjali Patel,68,Male,9535065075,anjalipatel1055@gmail.com,Mumbai,O+,Heart Disease
+P1056,Amit Verma,24,Male,9514060468,amitverma1056@gmail.com,Chennai,AB-,Heart Disease
+P1057,Anjali Patel,12,Male,9780000283,anjalipatel1057@gmail.com,Mumbai,AB-,Allergy
+P1058,Kavita Kumar,62,Female,9517652016,kavitakumar1058@gmail.com,Delhi,B+,Hypertension
+P1059,Pooja Chaudhary,8,Male,9205950150,poojachaudhary1059@gmail.com,Pune,AB+,Hypertension
+P1060,Neha Mishra,1,Female,9258967821,nehamishra1060@gmail.com,Delhi,B+,Asthma
+P1061,Suresh Singh,13,Female,9158062702,sureshsingh1061@gmail.com,Mumbai,O+,None
+P1062,Sneha Verma,64,Female,9220036772,snehaverma1062@gmail.com,Bangalore,AB+,Thyroid
+P1063,Anjali Gupta,62,Male,9130263308,anjaligupta1063@gmail.com,Bangalore,B-,Diabetes
+P1064,Amit Yadav,66,Male,9987777138,amityadav1064@gmail.com,Patna,AB+,Heart Disease
+P1065,Anjali Das,72,Female,9774499561,anjalidas1065@gmail.com,Jaipur,B+,Allergy
+P1066,Amit Verma,55,Female,9752912928,amitverma1066@gmail.com,Lucknow,AB+,Thyroid
+P1067,Deepak Chaudhary,2,Male,9807651310,deepakchaudhary1067@gmail.com,Varanasi,AB-,Diabetes
+P1068,Suresh Das,46,Male,9999310967,sureshdas1068@gmail.com,Pune,AB+,Heart Disease
+P1069,Sneha Yadav,12,Female,9991127727,snehayadav1069@gmail.com,Jaipur,AB-,None
+P1070,Priya Mishra,71,Male,9968006943,priyamishra1070@gmail.com,Delhi,AB-,Thyroid
+P1071,Pooja Verma,31,Male,9616749428,poojaverma1071@gmail.com,Chennai,B-,Allergy
+P1072,Suresh Verma,30,Male,9411220638,sureshverma1072@gmail.com,Mumbai,B-,Hypertension
+P1073,Sneha Verma,45,Female,9297292027,snehaverma1073@gmail.com,Pune,A-,Allergy
+P1074,Rahul Kumar,30,Female,9454494818,rahulkumar1074@gmail.com,Pune,B+,Diabetes
+P1075,Vikas Das,76,Female,9752636013,vikasdas1075@gmail.com,Kolkata,O+,Asthma
+P1076,Sneha Patel,67,Male,9734206114,snehapatel1076@gmail.com,Bangalore,O-,None
+P1077,Deepak Chaudhary,16,Female,9589512718,deepakchaudhary1077@gmail.com,Pune,O+,Heart Disease
+P1078,Sneha Sharma,82,Male,9437228432,snehasharma1078@gmail.com,Varanasi,A+,Asthma
+P1079,Deepak Gupta,62,Female,9440765964,deepakgupta1079@gmail.com,Pune,A+,Asthma
+P1080,Priya Verma,27,Female,9383683551,priyaverma1080@gmail.com,Chennai,A+,None
+P1081,Anjali Sharma,81,Female,9995893684,anjalisharma1081@gmail.com,Chennai,O+,Heart Disease
+P1082,Deepak Chaudhary,19,Male,9315791416,deepakchaudhary1082@gmail.com,Kolkata,A-,Allergy
+P1083,Arjun Kumar,29,Female,9505669835,arjunkumar1083@gmail.com,Jaipur,AB+,None
+P1084,Kavita Patel,51,Female,9357529597,kavitapatel1084@gmail.com,Mumbai,A-,Thyroid
+P1085,Pooja Mishra,7,Male,9877002085,poojamishra1085@gmail.com,Patna,A+,Asthma
+P1086,Deepak Das,8,Male,9403196001,deepakdas1086@gmail.com,Jaipur,B+,Allergy
+P1087,Amit Mishra,61,Male,9217662421,amitmishra1087@gmail.com,Jaipur,A+,Thyroid
+P1088,Ravi Patel,41,Female,9068650949,ravipatel1088@gmail.com,Mumbai,B-,Thyroid
+P1089,Pooja Kumar,70,Female,9378485953,poojakumar1089@gmail.com,Kolkata,A+,Diabetes
+P1090,Anjali Verma,67,Male,9837389619,anjaliverma1090@gmail.com,Bangalore,A+,Asthma
+P1091,Ravi Singh,2,Female,9559309756,ravisingh1091@gmail.com,Bangalore,AB+,None
+P1092,Anjali Verma,65,Female,9511217219,anjaliverma1092@gmail.com,Bangalore,O-,None
+P1093,Rahul Gupta,52,Male,9152416320,rahulgupta1093@gmail.com,Chennai,A+,Asthma
+P1094,Manish Gupta,40,Male,9929683290,manishgupta1094@gmail.com,Varanasi,B-,Allergy
+P1095,Amit Gupta,63,Female,9764404771,amitgupta1095@gmail.com,Jaipur,O-,None
+P1096,Sneha Verma,45,Male,9526628040,snehaverma1096@gmail.com,Pune,AB+,Thyroid
+P1097,Priya Verma,16,Male,9625305771,priyaverma1097@gmail.com,Pune,O-,Asthma
+P1098,Sneha Patel,73,Male,9646319140,snehapatel1098@gmail.com,Pune,O-,Heart Disease
+P1099,Rahul Mishra,41,Female,9624717717,rahulmishra1099@gmail.com,Bangalore,AB-,Hypertension
+P1100,Rahul Das,19,Female,9490002899,rahuldas1100@gmail.com,Pune,A+,Diabetes
+P1101,Kiran Yadav,34,Female,9092550539,kiranyadav1101@gmail.com,Pune,AB-,None
+P1102,Kiran Kumar,10,Female,9097205387,kirankumar1102@gmail.com,Chennai,AB+,None
+P1103,Anjali Sharma,39,Male,9950057813,anjalisharma1103@gmail.com,Patna,O-,Heart Disease
+P1104,Anjali Verma,3,Male,9130492892,anjaliverma1104@gmail.com,Patna,A+,Thyroid
+P1105,Neha Verma,70,Female,9103205184,nehaverma1105@gmail.com,Lucknow,AB-,Asthma
+P1106,Kiran Patel,61,Female,9058166352,kiranpatel1106@gmail.com,Lucknow,B-,Hypertension
+P1107,Pooja Verma,49,Male,9674614077,poojaverma1107@gmail.com,Mumbai,B+,None
+P1108,Manish Kumar,57,Male,9953019797,manishkumar1108@gmail.com,Delhi,O-,Diabetes
+P1109,Priya Gupta,28,Male,9040121924,priyagupta1109@gmail.com,Delhi,O+,None
+P1110,Sneha Chaudhary,78,Female,9781196575,snehachaudhary1110@gmail.com,Mumbai,B-,Diabetes
+P1111,Suresh Mishra,5,Female,9370729232,sureshmishra1111@gmail.com,Delhi,AB+,Hypertension
+P1112,Rahul Patel,16,Female,9244083050,rahulpatel1112@gmail.com,Lucknow,AB-,Thyroid
+P1113,Deepak Verma,45,Male,9069683479,deepakverma1113@gmail.com,Lucknow,O-,Diabetes
+P1114,Amit Mishra,1,Male,9475184378,amitmishra1114@gmail.com,Kolkata,A+,None
+P1115,Rahul Das,81,Male,9969556168,rahuldas1115@gmail.com,Kolkata,A+,Thyroid
+P1116,Kiran Yadav,20,Female,9608456742,kiranyadav1116@gmail.com,Varanasi,A-,Thyroid
+P1117,Suresh Mishra,83,Female,9884229209,sureshmishra1117@gmail.com,Kolkata,A-,Asthma
+P1118,Rahul Das,78,Female,9871293267,rahuldas1118@gmail.com,Mumbai,A-,Hypertension
+P1119,Ravi Sharma,10,Female,9832693843,ravisharma1119@gmail.com,Kolkata,B-,Asthma
+P1120,Manish Sharma,1,Male,9198244985,manishsharma1120@gmail.com,Pune,B+,Thyroid
+P1121,Suresh Mishra,47,Female,9176731743,sureshmishra1121@gmail.com,Chennai,AB+,Heart Disease
+P1122,Manish Chaudhary,16,Male,9731462964,manishchaudhary1122@gmail.com,Jaipur,O+,Thyroid
+P1123,Kiran Patel,68,Male,9656401879,kiranpatel1123@gmail.com,Pune,A-,Diabetes
+P1124,Kiran Yadav,45,Female,9550057126,kiranyadav1124@gmail.com,Patna,B+,Heart Disease
+P1125,Arjun Das,4,Female,9871454720,arjundas1125@gmail.com,Mumbai,A+,Hypertension
+P1126,Anjali Gupta,53,Female,9091770839,anjaligupta1126@gmail.com,Kolkata,A+,None
+P1127,Arjun Kumar,64,Female,9157637901,arjunkumar1127@gmail.com,Varanasi,B+,Hypertension
+P1128,Suresh Verma,38,Male,9050007835,sureshverma1128@gmail.com,Varanasi,AB+,None
+P1129,Rahul Patel,10,Male,9174247653,rahulpatel1129@gmail.com,Kolkata,A-,Allergy
+P1130,Arjun Mishra,63,Male,9890106407,arjunmishra1130@gmail.com,Chennai,A-,Allergy
+P1131,Vikas Gupta,3,Female,9477523871,vikasgupta1131@gmail.com,Delhi,AB+,Asthma
+P1132,Kavita Das,47,Female,9075273668,kavitadas1132@gmail.com,Patna,O-,Hypertension
+P1133,Ravi Singh,47,Male,9458697155,ravisingh1133@gmail.com,Pune,A+,Heart Disease
+P1134,Amit Kumar,70,Female,9958057806,amitkumar1134@gmail.com,Varanasi,B+,Asthma
+P1135,Arjun Verma,73,Female,9935908349,arjunverma1135@gmail.com,Varanasi,B+,Asthma
+P1136,Pooja Mishra,4,Male,9392156923,poojamishra1136@gmail.com,Chennai,AB+,Diabetes
+P1137,Priya Kumar,14,Female,9582120362,priyakumar1137@gmail.com,Varanasi,B-,None
+P1138,Neha Kumar,53,Female,9355951042,nehakumar1138@gmail.com,Patna,A-,Diabetes
+P1139,Vikas Chaudhary,17,Female,9139518422,vikaschaudhary1139@gmail.com,Chennai,A-,Allergy
+P1140,Manish Sharma,77,Female,9678454424,manishsharma1140@gmail.com,Bangalore,B-,Asthma
+P1141,Deepak Yadav,19,Male,9759348934,deepakyadav1141@gmail.com,Delhi,A+,None
+P1142,Arjun Kumar,45,Female,9569756437,arjunkumar1142@gmail.com,Pune,O-,Diabetes
+P1143,Suresh Kumar,77,Female,9174615779,sureshkumar1143@gmail.com,Patna,B+,Hypertension
+P1144,Anjali Gupta,20,Male,9932665621,anjaligupta1144@gmail.com,Varanasi,B-,Allergy
+P1145,Manish Verma,31,Female,9936153848,manishverma1145@gmail.com,Mumbai,B+,Asthma
+P1146,Sneha Kumar,28,Female,9190512385,snehakumar1146@gmail.com,Bangalore,A-,Allergy
+P1147,Ravi Gupta,55,Male,9745753091,ravigupta1147@gmail.com,Patna,A+,Asthma
+P1148,Amit Das,10,Male,9785895445,amitdas1148@gmail.com,Jaipur,O-,Asthma
+P1149,Rahul Mishra,73,Female,9285844511,rahulmishra1149@gmail.com,Delhi,O+,Asthma
+P1150,Manish Mishra,36,Female,9489627735,manishmishra1150@gmail.com,Pune,O-,Heart Disease
+P1151,Deepak Singh,14,Female,9121055781,deepaksingh1151@gmail.com,Kolkata,B+,Thyroid
+P1152,Vikas Verma,42,Male,9090968668,vikasverma1152@gmail.com,Delhi,AB+,Thyroid
+P1153,Kiran Mishra,11,Female,9301381929,kiranmishra1153@gmail.com,Bangalore,AB-,Asthma
+P1154,Amit Verma,78,Male,9872569243,amitverma1154@gmail.com,Pune,B-,Asthma
+P1155,Kavita Kumar,35,Female,9726316561,kavitakumar1155@gmail.com,Kolkata,AB+,Hypertension
+P1156,Kavita Mishra,45,Male,9888000128,kavitamishra1156@gmail.com,Delhi,A+,None
+P1157,Anjali Mishra,35,Male,9828986516,anjalimishra1157@gmail.com,Pune,B+,Hypertension
+P1158,Manish Kumar,20,Female,9121866166,manishkumar1158@gmail.com,Jaipur,AB+,Asthma
+P1159,Sneha Verma,79,Male,9085579982,snehaverma1159@gmail.com,Kolkata,O-,Asthma
+P1160,Kavita Patel,44,Female,9811456654,kavitapatel1160@gmail.com,Bangalore,AB-,Asthma
+P1161,Kiran Das,13,Male,9982925416,kirandas1161@gmail.com,Jaipur,A+,Heart Disease
+P1162,Suresh Chaudhary,55,Female,9298452240,sureshchaudhary1162@gmail.com,Chennai,O+,Allergy
+P1163,Pooja Das,64,Male,9450203347,poojadas1163@gmail.com,Chennai,AB+,Diabetes
+P1164,Arjun Verma,38,Male,9934527913,arjunverma1164@gmail.com,Mumbai,O-,None
+P1165,Manish Kumar,28,Female,9595258751,manishkumar1165@gmail.com,Mumbai,B+,None
+P1166,Deepak Patel,46,Female,9273970595,deepakpatel1166@gmail.com,Bangalore,O+,Hypertension
+P1167,Amit Verma,9,Male,9510299673,amitverma1167@gmail.com,Kolkata,O-,Thyroid
+P1168,Arjun Das,17,Male,9244104679,arjundas1168@gmail.com,Patna,AB-,Diabetes
+P1169,Vikas Verma,39,Male,9439694293,vikasverma1169@gmail.com,Jaipur,AB+,Asthma
+P1170,Suresh Verma,32,Male,9397126742,sureshverma1170@gmail.com,Delhi,AB-,Diabetes
+P1171,Anjali Chaudhary,65,Male,9185510133,anjalichaudhary1171@gmail.com,Patna,O-,Allergy
+P1172,Kiran Mishra,48,Male,9853392527,kiranmishra1172@gmail.com,Pune,B-,Thyroid
+P1173,Rahul Patel,17,Female,9689111120,rahulpatel1173@gmail.com,Jaipur,AB-,Heart Disease
+P1174,Suresh Singh,66,Female,9235681312,sureshsingh1174@gmail.com,Bangalore,A-,Heart Disease
+P1175,Amit Singh,52,Female,9156505879,amitsingh1175@gmail.com,Patna,AB-,Diabetes
+P1176,Suresh Das,81,Male,9656628966,sureshdas1176@gmail.com,Varanasi,B-,Heart Disease
+P1177,Sneha Patel,7,Male,9932961951,snehapatel1177@gmail.com,Jaipur,B-,Diabetes
+P1178,Pooja Sharma,33,Female,9395912225,poojasharma1178@gmail.com,Kolkata,O+,Thyroid
+P1179,Pooja Patel,48,Male,9935988853,poojapatel1179@gmail.com,Varanasi,A-,Heart Disease
+P1180,Neha Yadav,49,Male,9293415219,nehayadav1180@gmail.com,Chennai,B-,Asthma
+P1181,Priya Das,79,Male,9746790561,priyadas1181@gmail.com,Jaipur,AB+,Diabetes
+P1182,Priya Kumar,56,Male,9506602993,priyakumar1182@gmail.com,Kolkata,AB+,Heart Disease
+P1183,Sneha Verma,84,Male,9088495906,snehaverma1183@gmail.com,Pune,B-,Allergy
+P1184,Vikas Mishra,15,Female,9471265171,vikasmishra1184@gmail.com,Patna,AB-,Allergy
+P1185,Pooja Kumar,12,Female,9339463545,poojakumar1185@gmail.com,Jaipur,AB-,Allergy
+P1186,Rahul Chaudhary,29,Female,9135742955,rahulchaudhary1186@gmail.com,Mumbai,O+,Heart Disease
+P1187,Neha Patel,5,Female,9722987119,nehapatel1187@gmail.com,Kolkata,A-,Allergy
+P1188,Kiran Patel,11,Male,9367646642,kiranpatel1188@gmail.com,Kolkata,O-,Hypertension
+P1189,Deepak Mishra,67,Female,9098302793,deepakmishra1189@gmail.com,Jaipur,A+,Asthma
+P1190,Kavita Singh,70,Female,9947986992,kavitasingh1190@gmail.com,Patna,AB+,None
+P1191,Suresh Chaudhary,13,Female,9350089310,sureshchaudhary1191@gmail.com,Varanasi,O+,None
+P1192,Neha Singh,50,Male,9705841870,nehasingh1192@gmail.com,Delhi,AB+,Thyroid
+P1193,Pooja Chaudhary,32,Male,9999231439,poojachaudhary1193@gmail.com,Kolkata,O+,Hypertension
+P1194,Arjun Chaudhary,85,Male,9543258249,arjunchaudhary1194@gmail.com,Jaipur,AB-,Diabetes
+P1195,Kiran Das,1,Male,9199944054,kirandas1195@gmail.com,Lucknow,AB+,Heart Disease
+P1196,Rahul Yadav,55,Female,9209057943,rahulyadav1196@gmail.com,Mumbai,B+,Heart Disease
+P1197,Deepak Singh,18,Male,9730142383,deepaksingh1197@gmail.com,Delhi,AB+,Asthma
+P1198,Ravi Mishra,77,Female,9157137526,ravimishra1198@gmail.com,Mumbai,B-,Hypertension
+P1199,Arjun Yadav,15,Male,9107388551,arjunyadav1199@gmail.com,Pune,A+,Asthma
+P1200,Priya Chaudhary,59,Female,9729901046,priyachaudhary1200@gmail.com,Lucknow,O+,Diabetes
